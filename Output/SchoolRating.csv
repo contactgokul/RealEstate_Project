@@ -1,0 +1,631 @@
+Rank,School,Type,Grades,Address,City,Zip,County,District,Is Charter,Is Magnet,Is Virtual,Is Title I,Year
+9,Mission San Jose High,"Public, Magnet",12-Sep,41717 Palm Ave.,Fremont,94539,Alameda,Fremont Unified,No,Yes,No,No,2018
+28,Piedmont High,Public,12-Sep,800 Magnolia Ave.,Piedmont,94611,Alameda,Piedmont City Unified,No,No,No,No,2018
+47,American High,Public,12-Sep,36300 Fremont Blvd.,Fremont,94536,Alameda,Fremont Unified,No,No,No,No,2018
+56,Foothill High,Public,12-Sep,4375 Foothill Rd.,Pleasanton,94588,Alameda,Pleasanton Unified,No,No,No,No,2018
+57,Irvington High,"Public, Magnet",12-Sep,41800 Blacow Rd.,Fremont,94538,Alameda,Fremont Unified,No,Yes,No,No,2018
+84,Amador Valley High,Public,12-Sep,1155 Santa Rita Rd.,Pleasanton,94566,Alameda,Pleasanton Unified,No,No,No,No,2018
+87,Dublin High,Public,12-Sep,8151 Village Pkwy.,Dublin,94568,Alameda,Dublin Unified,No,No,No,Yes,2018
+94,Oakland Charter High,"Public, Charter",12-Sep,2433 Coolidge Ave.,Oakland,94601,Alameda,Oakland Unified,Yes,No,No,Yes,2018
+115,KIPP King Collegiate High,"Public, Charter",12-Sep,2005B Via Barrett,San Lorenzo,94580,Alameda,San Lorenzo Unified,Yes,No,No,Yes,2018
+154,Albany High,Public,12-Sep,603 Key Route Blvd.,Albany,94706,Alameda,Albany City Unified,No,No,No,Yes,2018
+170,Alameda High,Public,12-Sep,2201 Encinal Ave.,Alameda,94501,Alameda,Alameda Unified,No,No,No,No,2018
+205,Castro Valley High,Public,12-Sep,19400 Santa Maria Ave.,Castro Valley,94546,Alameda,Castro Valley Unified,No,No,No,No,2018
+223,Washington High,Public,12-Sep,38442 Fremont Blvd.,Fremont,94536,Alameda,Fremont Unified,No,No,No,No,2018
+269,Berkeley High,Public,12-Sep,1980 Allston Way,Berkeley,94704,Alameda,Berkeley Unified,No,No,No,No,2018
+289,Granada High,Public,12-Sep,400 Wall St.,Livermore,94550,Alameda,Livermore Valley Joint Unified,No,No,No,No,2018
+330,James Logan High,Public,12-Sep,1800 H St.,Union City,94587,Alameda,New Haven Unified,No,No,No,Yes,2018
+346,Livermore High,Public,12-Sep,600 Maple St.,Livermore,94550,Alameda,Livermore Valley Joint Unified,No,No,No,No,2018
+390,John F. Kennedy High,Public,12-Sep,39999 Blacow Rd.,Fremont,94538,Alameda,Fremont Unified,No,No,No,Yes,2018
+478,Arroyo High,Public,12-Sep,15701 Lorenzo Ave.,San Lorenzo,94580,Alameda,San Lorenzo Unified,No,No,No,No,2018
+498,Oakland Unity High,"Public, Charter",12-Sep,6038 Brann St.,Oakland,94605,Alameda,Oakland Unified,Yes,No,No,Yes,2018
+530,American Indian Public High,"Public, Charter",12-Sep,746 Grand Ave.,Oakland,94607,Alameda,Oakland Unified,Yes,No,No,Yes,2018
+537,Lighthouse Community Charter High,"Public, Charter",12-Sep,444 Hegenberger Rd.,Oakland,94621,Alameda,Oakland Unified,Yes,No,No,Yes,2018
+604,Mt. Eden High,Public,12-Sep,2300 Panama St.,Hayward,94545,Alameda,Hayward Unified,No,No,No,Yes,2018
+647,Conservatory of Vocal/Instrumental Arts High,"Public, Charter",12-Sep,12500 Campus Dr. Bldg. D,Oakland,94619,Alameda,Oakland Unified,Yes,No,No,Yes,2018
+699,Oakland Technical High,Public,12-Sep,4351 BRd.way,Oakland,94611,Alameda,Oakland Unified,No,No,No,Yes,2018
+815,ARISE High,"Public, Charter",12-Sep,3301 E. 12th St. Ste. 205,Oakland,94601,Alameda,Oakland Unified,Yes,No,No,Yes,2018
+884,Silver Oak High Public Montessori Charter,"Public, Charter",12-Sep,951 Palisade St.,Hayward,94542,Alameda,Hayward Unified,Yes,No,No,(n/a),2018
+906,Hayward High,Public,12-Sep,1633 E. Ave.,Hayward,94541,Alameda,Hayward Unified,No,No,No,Yes,2018
+919,Newark Memorial High,Public,12-Sep,39375 Cedar Blvd.,Newark,94560,Alameda,Newark Unified,No,No,No,No,2018
+920,Skyline High,Public,12-Sep,12250 Skyline Blvd.,Oakland,94619,Alameda,Oakland Unified,No,No,No,Yes,2018
+992,San Leandro High,Public,12-Sep,2200 Bancroft Ave.,San Leandro,94577,Alameda,San Leandro Unified,No,No,No,No,2018
+1142,East Bay Arts High,Public,12-Sep,20450 Royal Ave.,Hayward,94541,Alameda,San Lorenzo Unified,No,No,No,No,2018
+1203,San Lorenzo High,Public,12-Sep,50 E. Lewelling Blvd.,San Lorenzo,94580,Alameda,San Lorenzo Unified,No,No,No,No,2018
+1239,REALM Charter High,"Public, Charter",12-Sep,2023 Eighth St.,Berkeley,94710,Alameda,Berkeley Unified,Yes,No,No,Yes,2018
+1244,Oakland High,Public,12-Sep,1023 MacArthur Blvd.,Oakland,94610,Alameda,Oakland Unified,No,No,No,Yes,2018
+1292,MetWest High,Public,12-Sep,314 E. Tenth St.,Oakland,94606,Alameda,Oakland Unified,No,No,No,Yes,2018
+1403,Tennyson High,Public,12-Sep,27035 Whitman Rd.,Hayward,94544,Alameda,Hayward Unified,No,No,No,Yes,2018
+1406,Village High,Public,12-Sep,4645 Bernal Ave.,Pleasanton,94566,Alameda,Pleasanton Unified,No,No,No,Yes,2018
+1534,McClymonds High,Public,12-Sep,2607 Myrtle St.,Oakland,94607,Alameda,Oakland Unified,No,No,No,Yes,2018
+1782,Oakland International High,Public,12-Sep,4521 Webster St.,Oakland,94609,Alameda,Oakland Unified,No,No,No,Yes,2018
+1787,Fremont High,Public,12-Sep,4610 Foothill Blvd.,Oakland,94601,Alameda,Oakland Unified,No,No,No,Yes,2018
+1807,Core Learning Academy at Conley-Caraballo High,Public,12-Sep,541 Blanche St.,Hayward,94544,Alameda,New Haven Unified,No,No,No,Yes,2018
+1839,Brenkwitz High,Public,12-Sep,22100 Princeton St.,Hayward,94541,Alameda,Hayward Unified,No,No,No,Yes,2018
+1921,Castlemont High,Public,12-Sep,8601 MacArthur Blvd.,Oakland,94605,Alameda,Oakland Unified,No,No,No,Yes,2018
+16,Mission San Jose High,"Public, Magnet",12-Sep,41717 Palm Ave.,Fremont,94539,Alameda,Fremont Unified,No,Yes,No,No,2017
+29,Piedmont High,Public,12-Sep,800 Magnolia Ave.,Piedmont,94611,Alameda,Piedmont City Unified,No,No,No,No,2017
+43,Amador Valley High,Public,12-Sep,1155 Santa Rita Rd.,Pleasanton,94566,Alameda,Pleasanton Unified,No,No,No,No,2017
+52,Foothill High,Public,12-Sep,4375 Foothill Rd.,Pleasanton,94588,Alameda,Pleasanton Unified,No,No,No,No,2017
+66,Irvington High,"Public, Magnet",12-Sep,41800 Blacow Rd.,Fremont,94538,Alameda,Fremont Unified,No,Yes,No,No,2017
+89,Albany High,Public,12-Sep,603 Key Route Blvd.,Albany,94706,Alameda,Albany City Unified,No,No,No,Yes,2017
+96,American High,Public,12-Sep,36300 Fremont Blvd.,Fremont,94536,Alameda,Fremont Unified,No,No,No,No,2017
+141,Oakland Charter High,"Public, Charter",12-Sep,2433 Coolidge Ave.,Oakland,94601,Alameda,Oakland Unified,Yes,No,No,Yes,2017
+173,Lighthouse Community Charter High,"Public, Charter",12-Sep,444 Hegenberger Rd.,Oakland,94621,Alameda,Oakland Unified,Yes,No,No,Yes,2017
+193,Alameda High,Public,12-Sep,2201 Encinal Ave.,Alameda,94501,Alameda,Alameda Unified,No,No,No,No,2017
+196,Washington High,Public,12-Sep,38442 Fremont Blvd.,Fremont,94536,Alameda,Fremont Unified,No,No,No,No,2017
+199,KIPP King Collegiate High,"Public, Charter",12-Sep,2005B Via Barrett,San Lorenzo,94580,Alameda,San Lorenzo Unified,Yes,No,No,Yes,2017
+224,Dublin High,Public,12-Sep,8151 Village Pkwy.,Dublin,94568,Alameda,Dublin Unified,No,No,No,Yes,2017
+248,Granada High,Public,12-Sep,400 Wall St.,Livermore,94550,Alameda,Livermore Valley Joint Unified,No,No,No,No,2017
+265,Castro Valley High,Public,12-Sep,19400 Santa Maria Ave.,Castro Valley,94546,Alameda,Castro Valley Unified,No,No,No,No,2017
+305,Conservatory of Vocal/Instrumental Arts High,"Public, Charter",12-Sep,12500 Campus Dr. Bldg. D,Oakland,94619,Alameda,Oakland Unified,Yes,No,No,Yes,2017
+323,American Indian Public High,"Public, Charter",12-Sep,746 Grand Ave.,Oakland,94607,Alameda,Oakland Unified,Yes,No,No,Yes,2017
+374,Livermore High,Public,12-Sep,600 Maple St.,Livermore,94550,Alameda,Livermore Valley Joint Unified,No,No,No,No,2017
+403,James Logan High,Public,12-Sep,1800 H St.,Union City,94587,Alameda,New Haven Unified,No,No,No,Yes,2017
+410,Arroyo High,Public,12-Sep,15701 Lorenzo Ave.,San Lorenzo,94580,Alameda,San Lorenzo Unified,No,No,No,No,2017
+464,John F. Kennedy High,Public,12-Sep,39999 Blacow Rd.,Fremont,94538,Alameda,Fremont Unified,No,No,No,Yes,2017
+559,Berkeley High,Public,12-Sep,1980 Allston Way,Berkeley,94704,Alameda,Berkeley Unified,No,No,No,No,2017
+677,ARISE High,"Public, Charter",12-Sep,3301 E. 12th St. Ste. 205,Oakland,94601,Alameda,Oakland Unified,Yes,No,No,Yes,2017
+682,Oakland Unity High,"Public, Charter",12-Sep,6038 Brann St.,Oakland,94605,Alameda,Oakland Unified,Yes,No,No,Yes,2017
+741,Oakland Technical High,Public,12-Sep,4351 BRd.way,Oakland,94611,Alameda,Oakland Unified,No,No,No,Yes,2017
+755,Newark Memorial High,Public,12-Sep,39375 Cedar Blvd.,Newark,94560,Alameda,Newark Unified,No,No,No,No,2017
+777,Silver Oak High Public Montessori Charter,"Public, Charter",12-Sep,951 Palisade St.,Hayward,94542,Alameda,Hayward Unified,Yes,No,No,(n/a),2017
+848,Mt. Eden High,Public,12-Sep,2300 Panama St.,Hayward,94545,Alameda,Hayward Unified,No,No,No,Yes,2017
+941,San Leandro High,Public,12-Sep,2200 Bancroft Ave.,San Leandro,94577,Alameda,San Leandro Unified,No,No,No,No,2017
+1025,Hayward High,Public,12-Sep,1633 E. Ave.,Hayward,94541,Alameda,Hayward Unified,No,No,No,Yes,2017
+1218,Skyline High,Public,12-Sep,12250 Skyline Blvd.,Oakland,94619,Alameda,Oakland Unified,No,No,No,Yes,2017
+1235,Oakland High,Public,12-Sep,1023 MacArthur Blvd.,Oakland,94610,Alameda,Oakland Unified,No,No,No,Yes,2017
+1321,Tennyson High,Public,12-Sep,27035 Whitman Rd.,Hayward,94544,Alameda,Hayward Unified,No,No,No,Yes,2017
+1335,East Bay Arts High,Public,12-Sep,20450 Royal Ave.,Hayward,94541,Alameda,San Lorenzo Unified,No,No,No,No,2017
+1341,MetWest High,Public,12-Sep,314 E. Tenth St.,Oakland,94606,Alameda,Oakland Unified,No,No,No,Yes,2017
+1410,REALM Charter High,"Public, Charter",12-Sep,2023 Eighth St.,Berkeley,94710,Alameda,Berkeley Unified,Yes,No,No,Yes,2017
+1421,San Lorenzo High,Public,12-Sep,50 E. Lewelling Blvd.,San Lorenzo,94580,Alameda,San Lorenzo Unified,No,No,No,No,2017
+1466,Village High,Public,12-Sep,4645 Bernal Ave.,Pleasanton,94566,Alameda,Pleasanton Unified,No,No,No,Yes,2017
+1516,McClymonds High,Public,12-Sep,2607 Myrtle St.,Oakland,94607,Alameda,Oakland Unified,No,No,No,Yes,2017
+1649,Fremont High,Public,12-Sep,4610 Foothill Blvd.,Oakland,94601,Alameda,Oakland Unified,No,No,No,Yes,2017
+1790,Ralph J. Bunche High,Public,12-Sep,1240 18th St.,Oakland,94607,Alameda,Oakland Unified,No,No,No,Yes,2017
+1800,Oakland International High,Public,12-Sep,4521 Webster St.,Oakland,94609,Alameda,Oakland Unified,No,No,No,Yes,2017
+1872,Brenkwitz High,Public,12-Sep,22100 Princeton St.,Hayward,94541,Alameda,Hayward Unified,No,No,No,Yes,2017
+1878,Core Learning Academy at Conley-Caraballo High,Public,12-Sep,541 Blanche St.,Hayward,94544,Alameda,New Haven Unified,No,No,No,Yes,2017
+1907,Castlemont High,Public,12-Sep,8601 MacArthur Blvd.,Oakland,94605,Alameda,Oakland Unified,No,No,No,Yes,2017
+7,Piedmont High,Public,12-Sep,800 Magnolia Ave.,Piedmont,94611,Alameda,Piedmont City Unified,No,No,No,No,2016
+11,Mission San Jose High,"Public, Magnet",12-Sep,41717 Palm Ave.,Fremont,94539,Alameda,Fremont Unified,No,Yes,No,No,2016
+28,Amador Valley High,Public,12-Sep,1155 Santa Rita Rd.,Pleasanton,94566,Alameda,Pleasanton Unified,No,No,No,No,2016
+41,Oakland Charter High,"Public, Charter",12-Sep,2433 Coolidge Ave.,Oakland,94601,Alameda,Oakland Unified,Yes,No,No,Yes,2016
+48,Foothill High,Public,12-Sep,4375 Foothill Rd.,Pleasanton,94588,Alameda,Pleasanton Unified,No,No,No,No,2016
+56,Albany High,Public,12-Sep,603 Key Route Blvd.,Albany,94706,Alameda,Albany City Unified,No,No,No,Yes,2016
+80,Irvington High,"Public, Magnet",12-Sep,41800 Blacow Rd.,Fremont,94538,Alameda,Fremont Unified,No,Yes,No,No,2016
+122,Dublin High,Public,12-Sep,8151 Village Pkwy.,Dublin,94568,Alameda,Dublin Unified,No,No,No,Yes,2016
+126,American Indian Public High,"Public, Charter",12-Sep,746 Grand Ave.,Oakland,94607,Alameda,Oakland Unified,Yes,No,No,Yes,2016
+156,Granada High,Public,12-Sep,400 Wall St.,Livermore,94550,Alameda,Livermore Valley Joint Unified,No,No,No,No,2016
+173,Alameda High,Public,12-Sep,2201 Encinal Ave.,Alameda,94501,Alameda,Alameda Unified,No,No,No,No,2016
+182,American High,Public,12-Sep,36300 Fremont Blvd.,Fremont,94536,Alameda,Fremont Unified,No,No,No,No,2016
+230,Washington High,Public,12-Sep,38442 Fremont Blvd.,Fremont,94536,Alameda,Fremont Unified,No,No,No,No,2016
+276,Castro Valley High,Public,12-Sep,19400 Santa Maria Ave.,Castro Valley,94546,Alameda,Castro Valley Unified,No,No,No,No,2016
+287,Berkeley High,Public,12-Sep,1980 Allston Way,Berkeley,94704,Alameda,Berkeley Unified,No,No,No,No,2016
+308,KIPP King Collegiate High,"Public, Charter",12-Sep,2005B Via Barrett,San Lorenzo,94580,Alameda,San Lorenzo Unified,Yes,No,No,Yes,2016
+315,Lighthouse Community Charter High,"Public, Charter",12-Sep,444 Hegenberger Rd.,Oakland,94621,Alameda,Oakland Unified,Yes,No,No,Yes,2016
+345,Arroyo High,Public,12-Sep,15701 Lorenzo Ave.,San Lorenzo,94580,Alameda,San Lorenzo Unified,No,No,No,No,2016
+372,Livermore High,Public,12-Sep,600 Maple St.,Livermore,94550,Alameda,Livermore Valley Joint Unified,No,No,No,No,2016
+452,James Logan High,Public,12-Sep,1800 H St.,Union City,94587,Alameda,New Haven Unified,No,No,No,Yes,2016
+507,Oakland Technical High,Public,12-Sep,4351 BRd.way,Oakland,94611,Alameda,Oakland Unified,No,No,No,Yes,2016
+513,John F. Kennedy High,Public,12-Sep,39999 Blacow Rd.,Fremont,94538,Alameda,Fremont Unified,No,No,No,Yes,2016
+635,Newark Memorial High,Public,12-Sep,39375 Cedar Blvd.,Newark,94560,Alameda,Newark Unified,No,No,No,No,2016
+707,Oakland Unity High,"Public, Charter",12-Sep,6038 Brann St.,Oakland,94605,Alameda,Oakland Unified,Yes,No,No,Yes,2016
+905,San Leandro High,Public,12-Sep,2200 Bancroft Ave.,San Leandro,94577,Alameda,San Leandro Unified,No,No,No,No,2016
+906,Mt. Eden High,Public,12-Sep,2300 Panama St.,Hayward,94545,Alameda,Hayward Unified,No,No,No,Yes,2016
+1000,Village High,Public,12-Sep,4645 Bernal Ave.,Pleasanton,94566,Alameda,Pleasanton Unified,No,No,No,Yes,2016
+1031,Hayward High,Public,12-Sep,1633 E. Ave.,Hayward,94541,Alameda,Hayward Unified,No,No,No,Yes,2016
+1075,East Bay Arts High,Public,12-Sep,20450 Royal Ave.,Hayward,94541,Alameda,San Lorenzo Unified,No,No,No,No,2016
+1185,San Lorenzo High,Public,12-Sep,50 E. Lewelling Blvd.,San Lorenzo,94580,Alameda,San Lorenzo Unified,No,No,No,No,2016
+1211,ARISE High,"Public, Charter",12-Sep,3301 E. 12th St. Ste. 205,Oakland,94601,Alameda,Oakland Unified,Yes,No,No,Yes,2016
+1233,Skyline High,Public,12-Sep,12250 Skyline Blvd.,Oakland,94619,Alameda,Oakland Unified,No,No,No,Yes,2016
+1245,Oakland High,Public,12-Sep,1023 MacArthur Blvd.,Oakland,94610,Alameda,Oakland Unified,No,No,No,Yes,2016
+1312,Silver Oak High Public Montessori Charter,"Public, Charter",12-Sep,951 Palisade St.,Hayward,94542,Alameda,Hayward Unified,Yes,No,No,(n/a),2016
+1338,REALM Charter High,"Public, Charter",12-Sep,2023 Eighth St.,Berkeley,94710,Alameda,Berkeley Unified,Yes,No,No,Yes,2016
+1368,Tennyson High,Public,12-Sep,27035 Whitman Rd.,Hayward,94544,Alameda,Hayward Unified,No,No,No,Yes,2016
+1505,MetWest High,Public,12-Sep,314 E. Tenth St.,Oakland,94606,Alameda,Oakland Unified,No,No,No,Yes,2016
+1544,McClymonds High,Public,12-Sep,2607 Myrtle St.,Oakland,94607,Alameda,Oakland Unified,No,No,No,Yes,2016
+1685,Fremont High,Public,12-Sep,4610 Foothill Blvd.,Oakland,94601,Alameda,Oakland Unified,No,No,No,Yes,2016
+1759,Core Learning Academy at Conley-Caraballo High,Public,12-Sep,541 Blanche St.,Hayward,94544,Alameda,New Haven Unified,No,No,No,Yes,2016
+1802,Ralph J. Bunche High,Public,12-Sep,1240 18th St.,Oakland,94607,Alameda,Oakland Unified,No,No,No,Yes,2016
+1888,Brenkwitz High,Public,12-Sep,22100 Princeton St.,Hayward,94541,Alameda,Hayward Unified,No,No,No,Yes,2016
+1908,Oakland International High,Public,12-Sep,4521 Webster St.,Oakland,94609,Alameda,Oakland Unified,No,No,No,Yes,2016
+1968,Castlemont High,Public,12-Sep,8601 MacArthur Blvd.,Oakland,94605,Alameda,Oakland Unified,No,No,No,Yes,2016
+16,Piedmont High,Public,12-Sep,800 Magnolia Ave.,Piedmont,94611,Alameda,Piedmont City Unified,No,No,No,No,2015
+18,Mission San Jose High,"Public, Magnet",12-Sep,41717 Palm Ave.,Fremont,94539,Alameda,Fremont Unified,No,Yes,No,No,2015
+24,Oakland Charter High,"Public, Charter",12-Sep,2433 Coolidge Ave.,Oakland,94601,Alameda,Oakland Unified,Yes,No,No,Yes,2015
+33,Amador Valley High,Public,12-Sep,1155 Santa Rita Rd.,Pleasanton,94566,Alameda,Pleasanton Unified,No,No,No,No,2015
+70,Dublin High,Public,12-Sep,8151 Village Pkwy.,Dublin,94568,Alameda,Dublin Unified,No,No,No,Yes,2015
+75,American Indian Public High,"Public, Charter",12-Sep,746 Grand Ave.,Oakland,94607,Alameda,Oakland Unified,Yes,No,No,Yes,2015
+81,Foothill High,Public,12-Sep,4375 Foothill Rd.,Pleasanton,94588,Alameda,Pleasanton Unified,No,No,No,No,2015
+112,Irvington High,"Public, Magnet",12-Sep,41800 Blacow Rd.,Fremont,94538,Alameda,Fremont Unified,No,Yes,No,No,2015
+148,American High,Public,12-Sep,36300 Fremont Blvd.,Fremont,94536,Alameda,Fremont Unified,No,No,No,No,2015
+156,Albany High,Public,12-Sep,603 Key Route Blvd.,Albany,94706,Alameda,Albany City Unified,No,No,No,Yes,2015
+161,Granada High,Public,12-Sep,400 Wall St.,Livermore,94550,Alameda,Livermore Valley Joint Unified,No,No,No,No,2015
+180,Alameda High,Public,12-Sep,2201 Encinal Ave.,Alameda,94501,Alameda,Alameda Unified,No,No,No,No,2015
+232,Lighthouse Community Charter High,"Public, Charter",12-Sep,444 Hegenberger Rd.,Oakland,94621,Alameda,Oakland Unified,Yes,No,No,Yes,2015
+238,Castro Valley High,Public,12-Sep,19400 Santa Maria Ave.,Castro Valley,94546,Alameda,Castro Valley Unified,No,No,No,No,2015
+263,Livermore High,Public,12-Sep,600 Maple St.,Livermore,94550,Alameda,Livermore Valley Joint Unified,No,No,No,No,2015
+320,Livermore Valley Charter Preparatory High,"Public, Charter",12-Sep,2451 Portola Ave.,Livermore,94551,Alameda,SBE - Livermore Valley Charter Preparatory High,Yes,No,No,(n/a),2015
+374,Washington High,Public,12-Sep,38442 Fremont Blvd.,Fremont,94536,Alameda,Fremont Unified,No,No,No,No,2015
+375,Berkeley High,Public,12-Sep,1980 Allston Way,Berkeley,94704,Alameda,Berkeley Unified,No,No,No,No,2015
+393,KIPP King Collegiate High,"Public, Charter",12-Sep,2005B Via Barrett,San Lorenzo,94580,Alameda,San Lorenzo Unified,Yes,No,No,Yes,2015
+481,James Logan High,Public,12-Sep,1800 H St.,Union City,94587,Alameda,New Haven Unified,No,No,No,Yes,2015
+536,John F. Kennedy High,Public,12-Sep,39999 Blacow Rd.,Fremont,94538,Alameda,Fremont Unified,No,No,No,Yes,2015
+552,Oakland Unity High,"Public, Charter",12-Sep,6038 Brann St.,Oakland,94605,Alameda,Oakland Unified,Yes,No,No,Yes,2015
+563,Arroyo High,Public,12-Sep,15701 Lorenzo Ave.,San Lorenzo,94580,Alameda,San Lorenzo Unified,No,No,No,No,2015
+566,Oakland Technical High,Public,12-Sep,4351 BRd.way,Oakland,94611,Alameda,Oakland Unified,No,No,No,Yes,2015
+667,Newark Memorial High,Public,12-Sep,39375 Cedar Blvd.,Newark,94560,Alameda,Newark Unified,No,No,No,No,2015
+765,Silver Oak High Public Montessori Charter,"Public, Charter",12-Sep,951 Palisade St.,Hayward,94542,Alameda,Hayward Unified,Yes,No,No,(n/a),2015
+814,Mt. Eden High,Public,12-Sep,2300 Panama St.,Hayward,94545,Alameda,Hayward Unified,No,No,No,Yes,2015
+936,San Leandro High,Public,12-Sep,2200 Bancroft Ave.,San Leandro,94577,Alameda,San Leandro Unified,No,No,No,No,2015
+1089,Hayward High,Public,12-Sep,1633 E. Ave.,Hayward,94541,Alameda,Hayward Unified,No,No,No,Yes,2015
+1110,REALM Charter High,"Public, Charter",12-Sep,2023 Eighth St.,Berkeley,94710,Alameda,Berkeley Unified,Yes,No,No,Yes,2015
+1113,East Bay Arts High,Public,12-Sep,20450 Royal Ave.,Hayward,94541,Alameda,San Lorenzo Unified,No,No,No,No,2015
+1126,Oakland High,Public,12-Sep,1023 MacArthur Blvd.,Oakland,94610,Alameda,Oakland Unified,No,No,No,Yes,2015
+1140,Skyline High,Public,12-Sep,12250 Skyline Blvd.,Oakland,94619,Alameda,Oakland Unified,No,No,No,Yes,2015
+1158,San Lorenzo High,Public,12-Sep,50 E. Lewelling Blvd.,San Lorenzo,94580,Alameda,San Lorenzo Unified,No,No,No,No,2015
+1281,Village High,Public,12-Sep,4645 Bernal Ave.,Pleasanton,94566,Alameda,Pleasanton Unified,No,No,No,Yes,2015
+1339,Tennyson High,Public,12-Sep,27035 Whitman Rd.,Hayward,94544,Alameda,Hayward Unified,No,No,No,Yes,2015
+1479,ARISE High,"Public, Charter",12-Sep,3301 E. 12th St. Ste. 205,Oakland,94601,Alameda,Oakland Unified,Yes,No,No,Yes,2015
+1601,Castlemont High,Public,12-Sep,8601 MacArthur Blvd.,Oakland,94605,Alameda,Oakland Unified,No,No,No,Yes,2015
+1626,Fremont High,Public,12-Sep,4610 Foothill Blvd.,Oakland,94601,Alameda,Oakland Unified,No,No,No,Yes,2015
+1734,McClymonds High,Public,12-Sep,2607 Myrtle St.,Oakland,94607,Alameda,Oakland Unified,No,No,No,Yes,2015
+1811,Ralph J. Bunche High,Public,12-Sep,1240 18th St.,Oakland,94607,Alameda,Oakland Unified,No,No,No,Yes,2015
+1830,Core Learning Academy at Conley-Caraballo High,Public,12-Sep,541 Blanche St.,Hayward,94544,Alameda,New Haven Unified,No,No,No,Yes,2015
+1863,Brenkwitz High,Public,12-Sep,22100 Princeton St.,Hayward,94541,Alameda,Hayward Unified,No,No,No,Yes,2015
+1894,Oakland International High,Public,12-Sep,4521 Webster St.,Oakland,94609,Alameda,Oakland Unified,No,No,No,Yes,2015
+10,Oakland Charter High,"Public, Charter",12-Sep,2433 Coolidge Ave.,Oakland,94601,Alameda,Oakland Unified,Yes,No,No,Yes,2013
+24,American Indian Public High,"Public, Charter",12-Sep,746 Grand Ave.,Oakland,94607,Alameda,Oakland Unified,Yes,No,No,Yes,2013
+28,Mission San Jose High,"Public, Magnet",12-Sep,41717 Palm Ave.,Fremont,94539,Alameda,Fremont Unified,No,Yes,No,No,2013
+59,Piedmont High,Public,12-Sep,800 Magnolia Ave.,Piedmont,94611,Alameda,Piedmont City Unified,No,No,No,No,2013
+73,Dublin High,Public,12-Sep,8151 Village Pkwy.,Dublin,94568,Alameda,Dublin Unified,No,No,No,Yes,2013
+75,Irvington High,"Public, Magnet",12-Sep,41800 Blacow Rd.,Fremont,94538,Alameda,Fremont Unified,No,Yes,No,No,2013
+109,Granada High,Public,12-Sep,400 Wall St.,Livermore,94550,Alameda,Livermore Valley Joint Unified,No,No,No,No,2013
+112,Albany High,Public,12-Sep,603 Key Route Blvd.,Albany,94706,Alameda,Albany City Unified,No,No,No,Yes,2013
+197,Amador Valley High,Public,12-Sep,1155 Santa Rita Rd.,Pleasanton,94566,Alameda,Pleasanton Unified,No,No,No,No,2013
+276,American High,Public,12-Sep,36300 Fremont Blvd.,Fremont,94536,Alameda,Fremont Unified,No,No,No,No,2013
+368,Foothill High,Public,12-Sep,4375 Foothill Rd.,Pleasanton,94588,Alameda,Pleasanton Unified,No,No,No,No,2013
+409,Arroyo High,Public,12-Sep,15701 Lorenzo Ave.,San Lorenzo,94580,Alameda,San Lorenzo Unified,No,No,No,No,2013
+453,Castro Valley High,Public,12-Sep,19400 Santa Maria Ave.,Castro Valley,94546,Alameda,Castro Valley Unified,No,No,No,No,2013
+460,Lighthouse Community Charter High,"Public, Charter",12-Sep,444 Hegenberger Rd.,Oakland,94621,Alameda,Oakland Unified,Yes,No,No,Yes,2013
+468,Livermore High,Public,12-Sep,600 Maple St.,Livermore,94550,Alameda,Livermore Valley Joint Unified,No,No,No,No,2013
+480,Alameda High,Public,12-Sep,2201 Encinal Ave.,Alameda,94501,Alameda,Alameda Unified,No,No,No,No,2013
+493,KIPP King Collegiate High,"Public, Charter",12-Sep,2005B Via Barrett,San Lorenzo,94580,Alameda,San Lorenzo Unified,Yes,No,No,Yes,2013
+514,Washington High,Public,12-Sep,38442 Fremont Blvd.,Fremont,94536,Alameda,Fremont Unified,No,No,No,No,2013
+544,Livermore Valley Charter Preparatory High,"Public, Charter",12-Sep,2451 Portola Ave.,Livermore,94551,Alameda,SBE - Livermore Valley Charter Preparatory High,Yes,No,No,(n/a),2013
+665,Newark Memorial High,Public,12-Sep,39375 Cedar Blvd.,Newark,94560,Alameda,Newark Unified,No,No,No,No,2013
+744,John F. Kennedy High,Public,12-Sep,39999 Blacow Rd.,Fremont,94538,Alameda,Fremont Unified,No,No,No,Yes,2013
+820,Oakland Technical High,Public,12-Sep,4351 BRd.way,Oakland,94611,Alameda,Oakland Unified,No,No,No,Yes,2013
+844,Berkeley High,Public,12-Sep,1980 Allston Way,Berkeley,94704,Alameda,Berkeley Unified,No,No,No,No,2013
+953,James Logan High,Public,12-Sep,1800 H St.,Union City,94587,Alameda,New Haven Unified,No,No,No,Yes,2013
+1016,Oakland Unity High,"Public, Charter",12-Sep,6038 Brann St.,Oakland,94605,Alameda,Oakland Unified,Yes,No,No,Yes,2013
+1116,Mt. Eden High,Public,12-Sep,2300 Panama St.,Hayward,94545,Alameda,Hayward Unified,No,No,No,Yes,2013
+1147,East Oakland Leadership Academy High,"Public, Charter",12-Sep,2607 Seminary Ave,Oakland,94605,Alameda,Oakland Unified,Yes,No,(n/a),(n/a),2013
+1160,San Leandro High,Public,12-Sep,2200 Bancroft Ave.,San Leandro,94577,Alameda,San Leandro Unified,No,No,No,No,2013
+1179,San Lorenzo High,Public,12-Sep,50 E. Lewelling Blvd.,San Lorenzo,94580,Alameda,San Lorenzo Unified,No,No,No,No,2013
+1283,Village High,Public,12-Sep,4645 Bernal Ave.,Pleasanton,94566,Alameda,Pleasanton Unified,No,No,No,Yes,2013
+1304,Hayward High,Public,12-Sep,1633 E. Ave.,Hayward,94541,Alameda,Hayward Unified,No,No,No,Yes,2013
+1370,REALM Charter High,"Public, Charter",12-Sep,2023 Eighth St.,Berkeley,94710,Alameda,Berkeley Unified,Yes,No,No,Yes,2013
+1394,East Bay Arts High,Public,12-Sep,20450 Royal Ave.,Hayward,94541,Alameda,San Lorenzo Unified,No,No,No,No,2013
+1426,Skyline High,Public,12-Sep,12250 Skyline Blvd.,Oakland,94619,Alameda,Oakland Unified,No,No,No,Yes,2013
+1477,Tennyson High,Public,12-Sep,27035 Whitman Rd.,Hayward,94544,Alameda,Hayward Unified,No,No,No,Yes,2013
+1492,Oakland High,Public,12-Sep,1023 MacArthur Blvd.,Oakland,94610,Alameda,Oakland Unified,No,No,No,Yes,2013
+1580,MetWest High,Public,12-Sep,314 E. Tenth St.,Oakland,94606,Alameda,Oakland Unified,No,No,No,Yes,2013
+1860,Ralph J. Bunche High,Public,12-Sep,1240 18th St.,Oakland,94607,Alameda,Oakland Unified,No,No,No,Yes,2013
+1904,Castlemont High,Public,12-Sep,8601 MacArthur Blvd.,Oakland,94605,Alameda,Oakland Unified,No,No,No,Yes,2013
+1907,McClymonds High,Public,12-Sep,2607 Myrtle St.,Oakland,94607,Alameda,Oakland Unified,No,No,No,Yes,2013
+1960,ARISE High,"Public, Charter",12-Sep,3301 E. 12th St. Ste. 205,Oakland,94601,Alameda,Oakland Unified,Yes,No,No,Yes,2013
+2073,Oakland International High,Public,12-Sep,4521 Webster St.,Oakland,94609,Alameda,Oakland Unified,No,No,No,Yes,2013
+2097,Core Learning Academy at Conley-Caraballo High,Public,12-Sep,541 Blanche St.,Hayward,94544,Alameda,New Haven Unified,No,No,No,Yes,2013
+2115,Brenkwitz High,Public,12-Sep,22100 Princeton St.,Hayward,94541,Alameda,Hayward Unified,No,No,No,Yes,2013
+2177,Community Day High,Public,12-Sep,4917 Mountain Blvd.,Oakland,94619,Alameda,Oakland Unified,No,No,No,Yes,2013
+30,Monta Vista High,Public,12-Sep,21840 McClellan Rd.,Cupertino,95014,Santa Clara,Fremont Union High,No,No,No,(n/a),2013
+38,Lynbrook High,Public,12-Sep,1280 Johnson Ave.,San Jose,95129,Santa Clara,Fremont Union High,No,No,No,(n/a),2013
+40,Saratoga High,Public,12-Sep,20300 Herriman Ave.,Saratoga,95070,Santa Clara,Los Gatos-Saratoga Joint Union High,No,No,No,No,2013
+51,Henry M. Gunn High,Public,12-Sep,780 Arastradero Rd.,Palo Alto,94306,Santa Clara,Palo Alto Unified,No,No,No,No,2013
+53,Leland High,Public,12-Sep,6677 Camden Ave.,San Jose,95120,Santa Clara,San Jose Unified,No,No,No,No,2013
+74,Palo Alto High,Public,12-Sep,50 Embarcadero Rd.,Palo Alto,94301,Santa Clara,Palo Alto Unified,No,No,No,No,2013
+121,Los Altos High,Public,12-Sep,201 Almond Ave.,Los Altos,94022,Santa Clara,Mountain View-Los Altos Union High,No,No,No,No,2013
+122,Los Gatos High,Public,12-Sep,20 High Sch Ct.,Los Gatos,95030,Santa Clara,Los Gatos-Saratoga Joint Union High,No,No,No,Yes,2013
+145,Cupertino High,Public,12-Sep,10100 Finch Ave.,Cupertino,95014,Santa Clara,Fremont Union High,No,No,No,(n/a),2013
+190,Communitas Charter High,"Public, Charter",12-Sep,4849 Pearl Ave,San Jose,95136,Santa Clara,Santa Clara County Office Of Education,Yes,No,(n/a),(n/a),2013
+272,Homestead High,Public,12-Sep,21370 Homestead Rd.,Cupertino,95014,Santa Clara,Fremont Union High,No,No,No,(n/a),2013
+302,Evergreen Valley High,Public,12-Sep,3300 Quimby Rd.,San Jose,95148,Santa Clara,East Side Union High,No,No,No,No,2013
+367,Prospect High,Public,12-Sep,18900 Prospect Rd.,Saratoga,95070,Santa Clara,Campbell Union High,No,No,No,No,2013
+376,Milpitas High,Public,12-Sep,1285 Escuela Pkwy.,Milpitas,95035,Santa Clara,Milpitas Unified,No,No,No,No,2013
+399,Mountain View High,Public,12-Sep,3535 Truman Ave.,Mountain View,94040,Santa Clara,Mountain View-Los Altos Union High,No,No,No,No,2013
+432,Leigh High,Public,12-Sep,5210 Leigh Ave.,San Jose,95124,Santa Clara,Campbell Union High,No,No,No,No,2013
+438,Pioneer High,Public,12-Sep,1290 Blossom Hill Rd.,San Jose,95118,Santa Clara,San Jose Unified,No,No,No,No,2013
+448,Westmont High,Public,12-Sep,4805 W.mont Ave.,Campbell,95008,Santa Clara,Campbell Union High,No,No,No,No,2013
+482,Piedmont Hills High,"Public, Magnet",12-Sep,1377 Piedmont Rd.,San Jose,95132,Santa Clara,East Side Union High,No,Yes,No,No,2013
+498,Christopher High,Public,12-Sep,850 Day Rd.,Gilroy,95020,Santa Clara,Gilroy Unified,No,No,No,No,2013
+532,Silver Creek High,"Public, Magnet",12-Sep,3434 Silver Creek Rd.,San Jose,95121,Santa Clara,East Side Union High,No,Yes,No,Yes,2013
+572,Branham High,Public,12-Sep,1570 Branham Ln.,San Jose,95118,Santa Clara,Campbell Union High,No,No,No,No,2013
+666,Ann Sobrato High,Public,12-Sep,401 Burnett Ave.,Morgan Hill,95037,Santa Clara,Morgan Hill Unified,No,No,No,No,2013
+720,Live Oak High,Public,12-Sep,1505 E. Main Ave.,Morgan Hill,95037,Santa Clara,Morgan Hill Unified,No,No,No,No,2013
+732,Santa Teresa High,"Public, Magnet",12-Sep,6150 Snell Rd.,San Jose,95123,Santa Clara,East Side Union High,No,Yes,No,No,2013
+764,Fremont High,Public,12-Sep,1279 Sunnyvale-Saratoga Rd.,Sunnyvale,94087,Santa Clara,Fremont Union High,No,No,No,(n/a),2013
+771,Santa Clara High,Public,12-Sep,3000 Benton St.,Santa Clara,95051,Santa Clara,Santa Clara Unified,No,No,No,No,2013
+807,Adrian Wilcox High,Public,12-Sep,3250 Monroe St.,Santa Clara,95051,Santa Clara,Santa Clara Unified,No,No,No,No,2013
+851,Independence High,"Public, Magnet",12-Sep,1776 Edal Park Dr.,San Jose,95133,Santa Clara,East Side Union High,No,Yes,No,Yes,2013
+866,Abraham Lincoln High,Public,12-Sep,555 Dana Ave.,San Jose,95126,Santa Clara,San Jose Unified,No,No,No,Yes,2013
+880,Gilroy High,Public,12-Sep,750 W. Tenth St.,Gilroy,95020,Santa Clara,Gilroy Unified,No,No,No,No,2013
+893,Willow Glen High,Public,12-Sep,2001 Cottle Ave.,San Jose,95125,Santa Clara,San Jose Unified,No,No,No,No,2013
+902,Andrew P. Hill High,"Public, Magnet",12-Sep,3200 Senter Rd.,San Jose,95111,Santa Clara,East Side Union High,No,Yes,No,Yes,2013
+965,San Jose High,Public,12-Sep,275 N. 24th St.,San Jose,95116,Santa Clara,San Jose Unified,No,No,No,Yes,2013
+1042,Oak Grove High,"Public, Magnet",12-Sep,285 Blossom Hill Rd.,San Jose,95123,Santa Clara,East Side Union High,No,Yes,No,Yes,2013
+1063,Mt. Pleasant High,"Public, Magnet",12-Sep,1750 S. White Rd.,San Jose,95127,Santa Clara,East Side Union High,No,Yes,No,Yes,2013
+1097,Gunderson High,Public,12-Sep,620 Gaundabert Ln.,San Jose,95136,Santa Clara,San Jose Unified,No,No,No,Yes,2013
+1162,Yerba Buena High,"Public, Magnet",12-Sep,1855 Lucretia Ave.,San Jose,95122,Santa Clara,East Side Union High,No,Yes,No,Yes,2013
+1276,Del Mar High,Public,12-Sep,1224 Del Mar Ave.,San Jose,95128,Santa Clara,Campbell Union High,No,No,No,Yes,2013
+1329,James Lick High,"Public, Magnet",12-Sep,57 N. White Rd.,San Jose,95127,Santa Clara,East Side Union High,No,Yes,No,Yes,2013
+1343,Alta Vista High,Public,12-Sep,1325 Bryant Ave.,Mountain View,94040,Santa Clara,Mountain View-Los Altos Union High,No,No,No,Yes,2013
+1427,William C. Overfelt High,"Public, Magnet",12-Sep,1835 Cunningham Ave.,San Jose,95122,Santa Clara,East Side Union High,No,Yes,No,Yes,2013
+1516,Boynton High,Public,12-Sep,901 Boynton Ave.,San Jose,95117,Santa Clara,Campbell Union High,No,No,No,No,2013
+1589,Broadway High,Public,12-Sep,4825 Speak Ln.,San Jose,95118,Santa Clara,San Jose Unified,No,No,No,Yes,2013
+1729,Mt. Madonna High,Public,12-Sep,8750 Hirasaki Ct.,Gilroy,95020,Santa Clara,Gilroy Unified,No,No,No,No,2013
+1876,ACE Charter High,"Public, Charter",12-Sep,1776 Edal Park Dr.,San Jose,95133,Santa Clara,East Side Union High,Yes,No,No,Yes,2013
+2128,San Jose Community High,Public,12-Sep,1155 E. Julian St.,San Jose,95116,Santa Clara,San Jose Unified,No,No,No,Yes,2013
+14,Lynbrook High,Public,12-Sep,1280 Johnson Ave.,San Jose,95129,Santa Clara,Fremont Union High,No,No,No,(n/a),2018
+19,Saratoga High,Public,12-Sep,20300 Herriman Ave.,Saratoga,95070,Santa Clara,Los Gatos-Saratoga Joint Union High,No,No,No,No,2018
+27,Henry M. Gunn High,Public,12-Sep,780 Arastradero Rd.,Palo Alto,94306,Santa Clara,Palo Alto Unified,No,No,No,No,2018
+33,Monta Vista High,Public,12-Sep,21840 McClellan Rd.,Cupertino,95014,Santa Clara,Fremont Union High,No,No,No,(n/a),2018
+54,Cupertino High,Public,12-Sep,10100 Finch Ave.,Cupertino,95014,Santa Clara,Fremont Union High,No,No,No,(n/a),2018
+66,Evergreen Valley High,Public,12-Sep,3300 Quimby Rd.,San Jose,95148,Santa Clara,East Side Union High,No,No,No,No,2018
+76,Los Altos High,Public,12-Sep,201 Almond Ave.,Los Altos,94022,Santa Clara,Mountain View-Los Altos Union High,No,No,No,No,2018
+88,Mountain View High,Public,12-Sep,3535 Truman Ave.,Mountain View,94040,Santa Clara,Mountain View-Los Altos Union High,No,No,No,No,2018
+89,Palo Alto High,Public,12-Sep,50 Embarcadero Rd.,Palo Alto,94301,Santa Clara,Palo Alto Unified,No,No,No,No,2018
+104,Los Gatos High,Public,12-Sep,20 High Sch Ct.,Los Gatos,95030,Santa Clara,Los Gatos-Saratoga Joint Union High,No,No,No,Yes,2018
+116,Piedmont Hills High,"Public, Magnet",12-Sep,1377 Piedmont Rd.,San Jose,95132,Santa Clara,East Side Union High,No,Yes,No,No,2018
+121,Homestead High,Public,12-Sep,21370 Homestead Rd.,Cupertino,95014,Santa Clara,Fremont Union High,No,No,No,(n/a),2018
+161,Milpitas High,Public,12-Sep,1285 Escuela Pkwy.,Milpitas,95035,Santa Clara,Milpitas Unified,No,No,No,No,2018
+172,Silver Creek High,"Public, Magnet",12-Sep,3434 Silver Creek Rd.,San Jose,95121,Santa Clara,East Side Union High,No,Yes,No,Yes,2018
+179,Branham High,Public,12-Sep,1570 Branham Ln.,San Jose,95118,Santa Clara,Campbell Union High,No,No,No,No,2018
+186,Leland High,Public,12-Sep,6677 Camden Ave.,San Jose,95120,Santa Clara,San Jose Unified,No,No,No,No,2018
+245,Westmont High,Public,12-Sep,4805 W.mont Ave.,Campbell,95008,Santa Clara,Campbell Union High,No,No,No,No,2018
+255,Leigh High,Public,12-Sep,5210 Leigh Ave.,San Jose,95124,Santa Clara,Campbell Union High,No,No,No,No,2018
+292,Santa Teresa High,"Public, Magnet",12-Sep,6150 Snell Rd.,San Jose,95123,Santa Clara,East Side Union High,No,Yes,No,No,2018
+318,Alpha Cindy Avitia High,"Public, Charter",12-Sep,1881 Cunningham Ave.,San Jose,95122,Santa Clara,East Side Union High,Yes,No,No,Yes,2018
+319,Prospect High,Public,12-Sep,18900 Prospect Rd.,Saratoga,95070,Santa Clara,Campbell Union High,No,No,No,No,2018
+329,Pioneer High,Public,12-Sep,1290 Blossom Hill Rd.,San Jose,95118,Santa Clara,San Jose Unified,No,No,No,No,2018
+338,Ann Sobrato High,Public,12-Sep,401 Burnett Ave.,Morgan Hill,95037,Santa Clara,Morgan Hill Unified,No,No,No,No,2018
+400,Fremont High,Public,12-Sep,1279 Sunnyvale-Saratoga Rd.,Sunnyvale,94087,Santa Clara,Fremont Union High,No,No,No,(n/a),2018
+406,Adrian Wilcox High,Public,12-Sep,3250 Monroe St.,Santa Clara,95051,Santa Clara,Santa Clara Unified,No,No,No,No,2018
+465,Independence High,"Public, Magnet",12-Sep,1776 Edal Park Dr.,San Jose,95133,Santa Clara,East Side Union High,No,Yes,No,Yes,2018
+486,Christopher High,Public,12-Sep,850 Day Rd.,Gilroy,95020,Santa Clara,Gilroy Unified,No,No,No,No,2018
+504,Live Oak High,Public,12-Sep,1505 E. Main Ave.,Morgan Hill,95037,Santa Clara,Morgan Hill Unified,No,No,No,No,2018
+582,Santa Clara High,Public,12-Sep,3000 Benton St.,Santa Clara,95051,Santa Clara,Santa Clara Unified,No,No,No,No,2018
+727,Mt. Pleasant High,"Public, Magnet",12-Sep,1750 S. White Rd.,San Jose,95127,Santa Clara,East Side Union High,No,Yes,No,Yes,2018
+728,Del Mar High,Public,12-Sep,1224 Del Mar Ave.,San Jose,95128,Santa Clara,Campbell Union High,No,No,No,Yes,2018
+754,Yerba Buena High,"Public, Magnet",12-Sep,1855 Lucretia Ave.,San Jose,95122,Santa Clara,East Side Union High,No,Yes,No,Yes,2018
+780,Abraham Lincoln High,Public,12-Sep,555 Dana Ave.,San Jose,95126,Santa Clara,San Jose Unified,No,No,No,Yes,2018
+799,Oak Grove High,"Public, Magnet",12-Sep,285 Blossom Hill Rd.,San Jose,95123,Santa Clara,East Side Union High,No,Yes,No,Yes,2018
+814,Willow Glen High,Public,12-Sep,2001 Cottle Ave.,San Jose,95125,Santa Clara,San Jose Unified,No,No,No,No,2018
+849,Gilroy High,Public,12-Sep,750 W. Tenth St.,Gilroy,95020,Santa Clara,Gilroy Unified,No,No,No,No,2018
+980,James Lick High,"Public, Magnet",12-Sep,57 N. White Rd.,San Jose,95127,Santa Clara,East Side Union High,No,Yes,No,Yes,2018
+1044,Andrew P. Hill High,"Public, Magnet",12-Sep,3200 Senter Rd.,San Jose,95111,Santa Clara,East Side Union High,No,Yes,No,Yes,2018
+1112,Gunderson High,Public,12-Sep,620 Gaundabert Ln.,San Jose,95136,Santa Clara,San Jose Unified,No,No,No,Yes,2018
+1128,ACE Charter High,"Public, Charter",12-Sep,1776 Edal Park Dr.,San Jose,95133,Santa Clara,East Side Union High,Yes,No,No,Yes,2018
+1193,William C. Overfelt High,"Public, Magnet",12-Sep,1835 Cunningham Ave.,San Jose,95122,Santa Clara,East Side Union High,No,Yes,No,Yes,2018
+1315,San Jose High,Public,12-Sep,275 N. 24th St.,San Jose,95116,Santa Clara,San Jose Unified,No,No,No,Yes,2018
+1432,Alta Vista High,Public,12-Sep,1325 Bryant Ave.,Mountain View,94040,Santa Clara,Mountain View-Los Altos Union High,No,No,No,Yes,2018
+1650,Boynton High,Public,12-Sep,901 Boynton Ave.,San Jose,95117,Santa Clara,Campbell Union High,No,No,No,No,2018
+1845,Broadway High,Public,12-Sep,4825 Speak Ln.,San Jose,95118,Santa Clara,San Jose Unified,No,No,No,Yes,2018
+1979,Mt. Madonna High,Public,12-Sep,8750 Hirasaki Ct.,Gilroy,95020,Santa Clara,Gilroy Unified,No,No,No,No,2018
+15,Monta Vista High,Public,12-Sep,21840 McClellan Rd.,Cupertino,95014,Santa Clara,Fremont Union High,No,No,No,(n/a),2017
+22,Lynbrook High,Public,12-Sep,1280 Johnson Ave.,San Jose,95129,Santa Clara,Fremont Union High,No,No,No,(n/a),2017
+34,Cupertino High,Public,12-Sep,10100 Finch Ave.,Cupertino,95014,Santa Clara,Fremont Union High,No,No,No,(n/a),2017
+57,Saratoga High,Public,12-Sep,20300 Herriman Ave.,Saratoga,95070,Santa Clara,Los Gatos-Saratoga Joint Union High,No,No,No,No,2017
+71,Palo Alto High,Public,12-Sep,50 Embarcadero Rd.,Palo Alto,94301,Santa Clara,Palo Alto Unified,No,No,No,No,2017
+77,Mountain View High,Public,12-Sep,3535 Truman Ave.,Mountain View,94040,Santa Clara,Mountain View-Los Altos Union High,No,No,No,No,2017
+79,Leland High,Public,12-Sep,6677 Camden Ave.,San Jose,95120,Santa Clara,San Jose Unified,No,No,No,No,2017
+81,Evergreen Valley High,Public,12-Sep,3300 Quimby Rd.,San Jose,95148,Santa Clara,East Side Union High,No,No,No,No,2017
+88,Henry M. Gunn High,Public,12-Sep,780 Arastradero Rd.,Palo Alto,94306,Santa Clara,Palo Alto Unified,No,No,No,No,2017
+95,Piedmont Hills High,"Public, Magnet",12-Sep,1377 Piedmont Rd.,San Jose,95132,Santa Clara,East Side Union High,No,Yes,No,No,2017
+97,Homestead High,Public,12-Sep,21370 Homestead Rd.,Cupertino,95014,Santa Clara,Fremont Union High,No,No,No,(n/a),2017
+108,Leigh High,Public,12-Sep,5210 Leigh Ave.,San Jose,95124,Santa Clara,Campbell Union High,No,No,No,No,2017
+109,Los Altos High,Public,12-Sep,201 Almond Ave.,Los Altos,94022,Santa Clara,Mountain View-Los Altos Union High,No,No,No,No,2017
+121,Los Gatos High,Public,12-Sep,20 High Sch Ct.,Los Gatos,95030,Santa Clara,Los Gatos-Saratoga Joint Union High,No,No,No,Yes,2017
+168,Milpitas High,Public,12-Sep,1285 Escuela Pkwy.,Milpitas,95035,Santa Clara,Milpitas Unified,No,No,No,No,2017
+195,Branham High,Public,12-Sep,1570 Branham Ln.,San Jose,95118,Santa Clara,Campbell Union High,No,No,No,No,2017
+238,Santa Teresa High,"Public, Magnet",12-Sep,6150 Snell Rd.,San Jose,95123,Santa Clara,East Side Union High,No,Yes,No,No,2017
+239,Silver Creek High,"Public, Magnet",12-Sep,3434 Silver Creek Rd.,San Jose,95121,Santa Clara,East Side Union High,No,Yes,No,Yes,2017
+282,Ann Sobrato High,Public,12-Sep,401 Burnett Ave.,Morgan Hill,95037,Santa Clara,Morgan Hill Unified,No,No,No,No,2017
+295,Adrian Wilcox High,Public,12-Sep,3250 Monroe St.,Santa Clara,95051,Santa Clara,Santa Clara Unified,No,No,No,No,2017
+334,Prospect High,Public,12-Sep,18900 Prospect Rd.,Saratoga,95070,Santa Clara,Campbell Union High,No,No,No,No,2017
+357,Westmont High,Public,12-Sep,4805 W.mont Ave.,Campbell,95008,Santa Clara,Campbell Union High,No,No,No,No,2017
+369,Santa Clara High,Public,12-Sep,3000 Benton St.,Santa Clara,95051,Santa Clara,Santa Clara Unified,No,No,No,No,2017
+433,Independence High,"Public, Magnet",12-Sep,1776 Edal Park Dr.,San Jose,95133,Santa Clara,East Side Union High,No,Yes,No,Yes,2017
+487,Pioneer High,Public,12-Sep,1290 Blossom Hill Rd.,San Jose,95118,Santa Clara,San Jose Unified,No,No,No,No,2017
+501,Fremont High,Public,12-Sep,1279 Sunnyvale-Saratoga Rd.,Sunnyvale,94087,Santa Clara,Fremont Union High,No,No,No,(n/a),2017
+557,Del Mar High,Public,12-Sep,1224 Del Mar Ave.,San Jose,95128,Santa Clara,Campbell Union High,No,No,No,Yes,2017
+577,Christopher High,Public,12-Sep,850 Day Rd.,Gilroy,95020,Santa Clara,Gilroy Unified,No,No,No,No,2017
+724,Live Oak High,Public,12-Sep,1505 E. Main Ave.,Morgan Hill,95037,Santa Clara,Morgan Hill Unified,No,No,No,No,2017
+756,Abraham Lincoln High,Public,12-Sep,555 Dana Ave.,San Jose,95126,Santa Clara,San Jose Unified,No,No,No,Yes,2017
+775,Gilroy High,Public,12-Sep,750 W. Tenth St.,Gilroy,95020,Santa Clara,Gilroy Unified,No,No,No,No,2017
+799,Yerba Buena High,"Public, Magnet",12-Sep,1855 Lucretia Ave.,San Jose,95122,Santa Clara,East Side Union High,No,Yes,No,Yes,2017
+840,Willow Glen High,Public,12-Sep,2001 Cottle Ave.,San Jose,95125,Santa Clara,San Jose Unified,No,No,No,No,2017
+884,Oak Grove High,"Public, Magnet",12-Sep,285 Blossom Hill Rd.,San Jose,95123,Santa Clara,East Side Union High,No,Yes,No,Yes,2017
+897,Mt. Pleasant High,"Public, Magnet",12-Sep,1750 S. White Rd.,San Jose,95127,Santa Clara,East Side Union High,No,Yes,No,Yes,2017
+899,James Lick High,"Public, Magnet",12-Sep,57 N. White Rd.,San Jose,95127,Santa Clara,East Side Union High,No,Yes,No,Yes,2017
+921,William C. Overfelt High,"Public, Magnet",12-Sep,1835 Cunningham Ave.,San Jose,95122,Santa Clara,East Side Union High,No,Yes,No,Yes,2017
+930,ACE Charter High,"Public, Charter",12-Sep,1776 Edal Park Dr.,San Jose,95133,Santa Clara,East Side Union High,Yes,No,No,Yes,2017
+950,Andrew P. Hill High,"Public, Magnet",12-Sep,3200 Senter Rd.,San Jose,95111,Santa Clara,East Side Union High,No,Yes,No,Yes,2017
+1158,Boynton High,Public,12-Sep,901 Boynton Ave.,San Jose,95117,Santa Clara,Campbell Union High,No,No,No,No,2017
+1279,Gunderson High,Public,12-Sep,620 Gaundabert Ln.,San Jose,95136,Santa Clara,San Jose Unified,No,No,No,Yes,2017
+1351,Alta Vista High,Public,12-Sep,1325 Bryant Ave.,Mountain View,94040,Santa Clara,Mountain View-Los Altos Union High,No,No,No,Yes,2017
+1370,San Jose High,Public,12-Sep,275 N. 24th St.,San Jose,95116,Santa Clara,San Jose Unified,No,No,No,Yes,2017
+1640,Mt. Madonna High,Public,12-Sep,8750 Hirasaki Ct.,Gilroy,95020,Santa Clara,Gilroy Unified,No,No,No,No,2017
+1820,Broadway High,Public,12-Sep,4825 Speak Ln.,San Jose,95118,Santa Clara,San Jose Unified,No,No,No,Yes,2017
+15,Monta Vista High,Public,12-Sep,21840 McClellan Rd.,Cupertino,95014,Santa Clara,Fremont Union High,No,No,No,(n/a),2016
+22,Lynbrook High,Public,12-Sep,1280 Johnson Ave.,San Jose,95129,Santa Clara,Fremont Union High,No,No,No,(n/a),2016
+34,Cupertino High,Public,12-Sep,10100 Finch Ave.,Cupertino,95014,Santa Clara,Fremont Union High,No,No,No,(n/a),2016
+57,Saratoga High,Public,12-Sep,20300 Herriman Ave.,Saratoga,95070,Santa Clara,Los Gatos-Saratoga Joint Union High,No,No,No,No,2016
+71,Palo Alto High,Public,12-Sep,50 Embarcadero Rd.,Palo Alto,94301,Santa Clara,Palo Alto Unified,No,No,No,No,2016
+77,Mountain View High,Public,12-Sep,3535 Truman Ave.,Mountain View,94040,Santa Clara,Mountain View-Los Altos Union High,No,No,No,No,2016
+79,Leland High,Public,12-Sep,6677 Camden Ave.,San Jose,95120,Santa Clara,San Jose Unified,No,No,No,No,2016
+81,Evergreen Valley High,Public,12-Sep,3300 Quimby Rd.,San Jose,95148,Santa Clara,East Side Union High,No,No,No,No,2016
+88,Henry M. Gunn High,Public,12-Sep,780 Arastradero Rd.,Palo Alto,94306,Santa Clara,Palo Alto Unified,No,No,No,No,2016
+95,Piedmont Hills High,"Public, Magnet",12-Sep,1377 Piedmont Rd.,San Jose,95132,Santa Clara,East Side Union High,No,Yes,No,No,2016
+97,Homestead High,Public,12-Sep,21370 Homestead Rd.,Cupertino,95014,Santa Clara,Fremont Union High,No,No,No,(n/a),2016
+108,Leigh High,Public,12-Sep,5210 Leigh Ave.,San Jose,95124,Santa Clara,Campbell Union High,No,No,No,No,2016
+109,Los Altos High,Public,12-Sep,201 Almond Ave.,Los Altos,94022,Santa Clara,Mountain View-Los Altos Union High,No,No,No,No,2016
+121,Los Gatos High,Public,12-Sep,20 High Sch Ct.,Los Gatos,95030,Santa Clara,Los Gatos-Saratoga Joint Union High,No,No,No,Yes,2016
+168,Milpitas High,Public,12-Sep,1285 Escuela Pkwy.,Milpitas,95035,Santa Clara,Milpitas Unified,No,No,No,No,2016
+195,Branham High,Public,12-Sep,1570 Branham Ln.,San Jose,95118,Santa Clara,Campbell Union High,No,No,No,No,2016
+238,Santa Teresa High,"Public, Magnet",12-Sep,6150 Snell Rd.,San Jose,95123,Santa Clara,East Side Union High,No,Yes,No,No,2016
+239,Silver Creek High,"Public, Magnet",12-Sep,3434 Silver Creek Rd.,San Jose,95121,Santa Clara,East Side Union High,No,Yes,No,Yes,2016
+282,Ann Sobrato High,Public,12-Sep,401 Burnett Ave.,Morgan Hill,95037,Santa Clara,Morgan Hill Unified,No,No,No,No,2016
+295,Adrian Wilcox High,Public,12-Sep,3250 Monroe St.,Santa Clara,95051,Santa Clara,Santa Clara Unified,No,No,No,No,2016
+334,Prospect High,Public,12-Sep,18900 Prospect Rd.,Saratoga,95070,Santa Clara,Campbell Union High,No,No,No,No,2016
+357,Westmont High,Public,12-Sep,4805 W.mont Ave.,Campbell,95008,Santa Clara,Campbell Union High,No,No,No,No,2016
+369,Santa Clara High,Public,12-Sep,3000 Benton St.,Santa Clara,95051,Santa Clara,Santa Clara Unified,No,No,No,No,2016
+433,Independence High,"Public, Magnet",12-Sep,1776 Edal Park Dr.,San Jose,95133,Santa Clara,East Side Union High,No,Yes,No,Yes,2016
+487,Pioneer High,Public,12-Sep,1290 Blossom Hill Rd.,San Jose,95118,Santa Clara,San Jose Unified,No,No,No,No,2016
+501,Fremont High,Public,12-Sep,1279 Sunnyvale-Saratoga Rd.,Sunnyvale,94087,Santa Clara,Fremont Union High,No,No,No,(n/a),2016
+557,Del Mar High,Public,12-Sep,1224 Del Mar Ave.,San Jose,95128,Santa Clara,Campbell Union High,No,No,No,Yes,2016
+577,Christopher High,Public,12-Sep,850 Day Rd.,Gilroy,95020,Santa Clara,Gilroy Unified,No,No,No,No,2016
+724,Live Oak High,Public,12-Sep,1505 E. Main Ave.,Morgan Hill,95037,Santa Clara,Morgan Hill Unified,No,No,No,No,2016
+756,Abraham Lincoln High,Public,12-Sep,555 Dana Ave.,San Jose,95126,Santa Clara,San Jose Unified,No,No,No,Yes,2016
+775,Gilroy High,Public,12-Sep,750 W. Tenth St.,Gilroy,95020,Santa Clara,Gilroy Unified,No,No,No,No,2016
+799,Yerba Buena High,"Public, Magnet",12-Sep,1855 Lucretia Ave.,San Jose,95122,Santa Clara,East Side Union High,No,Yes,No,Yes,2016
+840,Willow Glen High,Public,12-Sep,2001 Cottle Ave.,San Jose,95125,Santa Clara,San Jose Unified,No,No,No,No,2016
+884,Oak Grove High,"Public, Magnet",12-Sep,285 Blossom Hill Rd.,San Jose,95123,Santa Clara,East Side Union High,No,Yes,No,Yes,2016
+897,Mt. Pleasant High,"Public, Magnet",12-Sep,1750 S. White Rd.,San Jose,95127,Santa Clara,East Side Union High,No,Yes,No,Yes,2016
+899,James Lick High,"Public, Magnet",12-Sep,57 N. White Rd.,San Jose,95127,Santa Clara,East Side Union High,No,Yes,No,Yes,2016
+921,William C. Overfelt High,"Public, Magnet",12-Sep,1835 Cunningham Ave.,San Jose,95122,Santa Clara,East Side Union High,No,Yes,No,Yes,2016
+930,ACE Charter High,"Public, Charter",12-Sep,1776 Edal Park Dr.,San Jose,95133,Santa Clara,East Side Union High,Yes,No,No,Yes,2016
+950,Andrew P. Hill High,"Public, Magnet",12-Sep,3200 Senter Rd.,San Jose,95111,Santa Clara,East Side Union High,No,Yes,No,Yes,2016
+1158,Boynton High,Public,12-Sep,901 Boynton Ave.,San Jose,95117,Santa Clara,Campbell Union High,No,No,No,No,2016
+1279,Gunderson High,Public,12-Sep,620 Gaundabert Ln.,San Jose,95136,Santa Clara,San Jose Unified,No,No,No,Yes,2016
+1351,Alta Vista High,Public,12-Sep,1325 Bryant Ave.,Mountain View,94040,Santa Clara,Mountain View-Los Altos Union High,No,No,No,Yes,2016
+1370,San Jose High,Public,12-Sep,275 N. 24th St.,San Jose,95116,Santa Clara,San Jose Unified,No,No,No,Yes,2016
+1640,Mt. Madonna High,Public,12-Sep,8750 Hirasaki Ct.,Gilroy,95020,Santa Clara,Gilroy Unified,No,No,No,No,2016
+1820,Broadway High,Public,12-Sep,4825 Speak Ln.,San Jose,95118,Santa Clara,San Jose Unified,No,No,No,Yes,2016
+7,Monta Vista High,Public,12-Sep,21840 McClellan Rd.,Cupertino,95014,Santa Clara,Fremont Union High,No,No,No,(n/a),2015
+12,Lynbrook High,Public,12-Sep,1280 Johnson Ave.,San Jose,95129,Santa Clara,Fremont Union High,No,No,No,(n/a),2015
+13,Saratoga High,Public,12-Sep,20300 Herriman Ave.,Saratoga,95070,Santa Clara,Los Gatos-Saratoga Joint Union High,No,No,No,No,2015
+44,Palo Alto High,Public,12-Sep,50 Embarcadero Rd.,Palo Alto,94301,Santa Clara,Palo Alto Unified,No,No,No,No,2015
+45,Cupertino High,Public,12-Sep,10100 Finch Ave.,Cupertino,95014,Santa Clara,Fremont Union High,No,No,No,(n/a),2015
+56,Homestead High,Public,12-Sep,21370 Homestead Rd.,Cupertino,95014,Santa Clara,Fremont Union High,No,No,No,(n/a),2015
+58,Henry M. Gunn High,Public,12-Sep,780 Arastradero Rd.,Palo Alto,94306,Santa Clara,Palo Alto Unified,No,No,No,No,2015
+62,Leland High,Public,12-Sep,6677 Camden Ave.,San Jose,95120,Santa Clara,San Jose Unified,No,No,No,No,2015
+105,Los Altos High,Public,12-Sep,201 Almond Ave.,Los Altos,94022,Santa Clara,Mountain View-Los Altos Union High,No,No,No,No,2015
+107,Leigh High,Public,12-Sep,5210 Leigh Ave.,San Jose,95124,Santa Clara,Campbell Union High,No,No,No,No,2015
+121,Mountain View High,Public,12-Sep,3535 Truman Ave.,Mountain View,94040,Santa Clara,Mountain View-Los Altos Union High,No,No,No,No,2015
+138,Evergreen Valley High,Public,12-Sep,3300 Quimby Rd.,San Jose,95148,Santa Clara,East Side Union High,No,No,No,No,2015
+142,Los Gatos High,Public,12-Sep,20 High Sch Ct.,Los Gatos,95030,Santa Clara,Los Gatos-Saratoga Joint Union High,No,No,No,Yes,2015
+146,Piedmont Hills High,"Public, Magnet",12-Sep,1377 Piedmont Rd.,San Jose,95132,Santa Clara,East Side Union High,No,Yes,No,No,2015
+179,Branham High,Public,12-Sep,1570 Branham Ln.,San Jose,95118,Santa Clara,Campbell Union High,No,No,No,No,2015
+202,Milpitas High,Public,12-Sep,1285 Escuela Pkwy.,Milpitas,95035,Santa Clara,Milpitas Unified,No,No,No,No,2015
+207,Westmont High,Public,12-Sep,4805 W.mont Ave.,Campbell,95008,Santa Clara,Campbell Union High,No,No,No,No,2015
+239,Santa Teresa High,"Public, Magnet",12-Sep,6150 Snell Rd.,San Jose,95123,Santa Clara,East Side Union High,No,Yes,No,No,2015
+270,Ann Sobrato High,Public,12-Sep,401 Burnett Ave.,Morgan Hill,95037,Santa Clara,Morgan Hill Unified,No,No,No,No,2015
+306,Prospect High,Public,12-Sep,18900 Prospect Rd.,Saratoga,95070,Santa Clara,Campbell Union High,No,No,No,No,2015
+314,Adrian Wilcox High,Public,12-Sep,3250 Monroe St.,Santa Clara,95051,Santa Clara,Santa Clara Unified,No,No,No,No,2015
+329,Silver Creek High,"Public, Magnet",12-Sep,3434 Silver Creek Rd.,San Jose,95121,Santa Clara,East Side Union High,No,Yes,No,Yes,2015
+436,Fremont High,Public,12-Sep,1279 Sunnyvale-Saratoga Rd.,Sunnyvale,94087,Santa Clara,Fremont Union High,No,No,No,(n/a),2015
+443,Live Oak High,Public,12-Sep,1505 E. Main Ave.,Morgan Hill,95037,Santa Clara,Morgan Hill Unified,No,No,No,No,2015
+444,Pioneer High,Public,12-Sep,1290 Blossom Hill Rd.,San Jose,95118,Santa Clara,San Jose Unified,No,No,No,No,2015
+505,Christopher High,Public,12-Sep,850 Day Rd.,Gilroy,95020,Santa Clara,Gilroy Unified,No,No,No,No,2015
+517,Willow Glen High,Public,12-Sep,2001 Cottle Ave.,San Jose,95125,Santa Clara,San Jose Unified,No,No,No,No,2015
+554,Independence High,"Public, Magnet",12-Sep,1776 Edal Park Dr.,San Jose,95133,Santa Clara,East Side Union High,No,Yes,No,Yes,2015
+583,Abraham Lincoln High,Public,12-Sep,555 Dana Ave.,San Jose,95126,Santa Clara,San Jose Unified,No,No,No,Yes,2015
+597,Del Mar High,Public,12-Sep,1224 Del Mar Ave.,San Jose,95128,Santa Clara,Campbell Union High,No,No,No,Yes,2015
+618,Santa Clara High,Public,12-Sep,3000 Benton St.,Santa Clara,95051,Santa Clara,Santa Clara Unified,No,No,No,No,2015
+773,Oak Grove High,"Public, Magnet",12-Sep,285 Blossom Hill Rd.,San Jose,95123,Santa Clara,East Side Union High,No,Yes,No,Yes,2015
+859,Yerba Buena High,"Public, Magnet",12-Sep,1855 Lucretia Ave.,San Jose,95122,Santa Clara,East Side Union High,No,Yes,No,Yes,2015
+934,Mt. Pleasant High,"Public, Magnet",12-Sep,1750 S. White Rd.,San Jose,95127,Santa Clara,East Side Union High,No,Yes,No,Yes,2015
+948,Andrew P. Hill High,"Public, Magnet",12-Sep,3200 Senter Rd.,San Jose,95111,Santa Clara,East Side Union High,No,Yes,No,Yes,2015
+1014,San Jose High,Public,12-Sep,275 N. 24th St.,San Jose,95116,Santa Clara,San Jose Unified,No,No,No,Yes,2015
+1062,Gunderson High,Public,12-Sep,620 Gaundabert Ln.,San Jose,95136,Santa Clara,San Jose Unified,No,No,No,Yes,2015
+1187,William C. Overfelt High,"Public, Magnet",12-Sep,1835 Cunningham Ave.,San Jose,95122,Santa Clara,East Side Union High,No,Yes,No,Yes,2015
+1198,James Lick High,"Public, Magnet",12-Sep,57 N. White Rd.,San Jose,95127,Santa Clara,East Side Union High,No,Yes,No,Yes,2015
+1219,Gilroy High,Public,12-Sep,750 W. Tenth St.,Gilroy,95020,Santa Clara,Gilroy Unified,No,No,No,No,2015
+1280,ACE Charter High,"Public, Charter",12-Sep,1776 Edal Park Dr.,San Jose,95133,Santa Clara,East Side Union High,Yes,No,No,Yes,2015
+1501,Boynton High,Public,12-Sep,901 Boynton Ave.,San Jose,95117,Santa Clara,Campbell Union High,No,No,No,No,2015
+1617,Alta Vista High,Public,12-Sep,1325 Bryant Ave.,Mountain View,94040,Santa Clara,Mountain View-Los Altos Union High,No,No,No,Yes,2015
+1662,Broadway High,Public,12-Sep,4825 Speak Ln.,San Jose,95118,Santa Clara,San Jose Unified,No,No,No,Yes,2015
+1730,Mt. Madonna High,Public,12-Sep,8750 Hirasaki Ct.,Gilroy,95020,Santa Clara,Gilroy Unified,No,No,No,No,2015
+30,Monta Vista High,Public,12-Sep,21840 McClellan Rd.,Cupertino,95014,Santa Clara,Fremont Union High,No,No,No,(n/a),2013
+38,Lynbrook High,Public,12-Sep,1280 Johnson Ave.,San Jose,95129,Santa Clara,Fremont Union High,No,No,No,(n/a),2013
+40,Saratoga High,Public,12-Sep,20300 Herriman Ave.,Saratoga,95070,Santa Clara,Los Gatos-Saratoga Joint Union High,No,No,No,No,2013
+51,Henry M. Gunn High,Public,12-Sep,780 Arastradero Rd.,Palo Alto,94306,Santa Clara,Palo Alto Unified,No,No,No,No,2013
+53,Leland High,Public,12-Sep,6677 Camden Ave.,San Jose,95120,Santa Clara,San Jose Unified,No,No,No,No,2013
+74,Palo Alto High,Public,12-Sep,50 Embarcadero Rd.,Palo Alto,94301,Santa Clara,Palo Alto Unified,No,No,No,No,2013
+121,Los Altos High,Public,12-Sep,201 Almond Ave.,Los Altos,94022,Santa Clara,Mountain View-Los Altos Union High,No,No,No,No,2013
+122,Los Gatos High,Public,12-Sep,20 High Sch Ct.,Los Gatos,95030,Santa Clara,Los Gatos-Saratoga Joint Union High,No,No,No,Yes,2013
+145,Cupertino High,Public,12-Sep,10100 Finch Ave.,Cupertino,95014,Santa Clara,Fremont Union High,No,No,No,(n/a),2013
+190,Communitas Charter High,"Public, Charter",12-Sep,4849 Pearl Ave,San Jose,95136,Santa Clara,Santa Clara County Office Of Education,Yes,No,(n/a),(n/a),2013
+272,Homestead High,Public,12-Sep,21370 Homestead Rd.,Cupertino,95014,Santa Clara,Fremont Union High,No,No,No,(n/a),2013
+302,Evergreen Valley High,Public,12-Sep,3300 Quimby Rd.,San Jose,95148,Santa Clara,East Side Union High,No,No,No,No,2013
+367,Prospect High,Public,12-Sep,18900 Prospect Rd.,Saratoga,95070,Santa Clara,Campbell Union High,No,No,No,No,2013
+376,Milpitas High,Public,12-Sep,1285 Escuela Pkwy.,Milpitas,95035,Santa Clara,Milpitas Unified,No,No,No,No,2013
+399,Mountain View High,Public,12-Sep,3535 Truman Ave.,Mountain View,94040,Santa Clara,Mountain View-Los Altos Union High,No,No,No,No,2013
+432,Leigh High,Public,12-Sep,5210 Leigh Ave.,San Jose,95124,Santa Clara,Campbell Union High,No,No,No,No,2013
+438,Pioneer High,Public,12-Sep,1290 Blossom Hill Rd.,San Jose,95118,Santa Clara,San Jose Unified,No,No,No,No,2013
+448,Westmont High,Public,12-Sep,4805 W.mont Ave.,Campbell,95008,Santa Clara,Campbell Union High,No,No,No,No,2013
+482,Piedmont Hills High,"Public, Magnet",12-Sep,1377 Piedmont Rd.,San Jose,95132,Santa Clara,East Side Union High,No,Yes,No,No,2013
+498,Christopher High,Public,12-Sep,850 Day Rd.,Gilroy,95020,Santa Clara,Gilroy Unified,No,No,No,No,2013
+532,Silver Creek High,"Public, Magnet",12-Sep,3434 Silver Creek Rd.,San Jose,95121,Santa Clara,East Side Union High,No,Yes,No,Yes,2013
+572,Branham High,Public,12-Sep,1570 Branham Ln.,San Jose,95118,Santa Clara,Campbell Union High,No,No,No,No,2013
+666,Ann Sobrato High,Public,12-Sep,401 Burnett Ave.,Morgan Hill,95037,Santa Clara,Morgan Hill Unified,No,No,No,No,2013
+720,Live Oak High,Public,12-Sep,1505 E. Main Ave.,Morgan Hill,95037,Santa Clara,Morgan Hill Unified,No,No,No,No,2013
+732,Santa Teresa High,"Public, Magnet",12-Sep,6150 Snell Rd.,San Jose,95123,Santa Clara,East Side Union High,No,Yes,No,No,2013
+764,Fremont High,Public,12-Sep,1279 Sunnyvale-Saratoga Rd.,Sunnyvale,94087,Santa Clara,Fremont Union High,No,No,No,(n/a),2013
+771,Santa Clara High,Public,12-Sep,3000 Benton St.,Santa Clara,95051,Santa Clara,Santa Clara Unified,No,No,No,No,2013
+807,Adrian Wilcox High,Public,12-Sep,3250 Monroe St.,Santa Clara,95051,Santa Clara,Santa Clara Unified,No,No,No,No,2013
+851,Independence High,"Public, Magnet",12-Sep,1776 Edal Park Dr.,San Jose,95133,Santa Clara,East Side Union High,No,Yes,No,Yes,2013
+866,Abraham Lincoln High,Public,12-Sep,555 Dana Ave.,San Jose,95126,Santa Clara,San Jose Unified,No,No,No,Yes,2013
+880,Gilroy High,Public,12-Sep,750 W. Tenth St.,Gilroy,95020,Santa Clara,Gilroy Unified,No,No,No,No,2013
+893,Willow Glen High,Public,12-Sep,2001 Cottle Ave.,San Jose,95125,Santa Clara,San Jose Unified,No,No,No,No,2013
+902,Andrew P. Hill High,"Public, Magnet",12-Sep,3200 Senter Rd.,San Jose,95111,Santa Clara,East Side Union High,No,Yes,No,Yes,2013
+965,San Jose High,Public,12-Sep,275 N. 24th St.,San Jose,95116,Santa Clara,San Jose Unified,No,No,No,Yes,2013
+1042,Oak Grove High,"Public, Magnet",12-Sep,285 Blossom Hill Rd.,San Jose,95123,Santa Clara,East Side Union High,No,Yes,No,Yes,2013
+1063,Mt. Pleasant High,"Public, Magnet",12-Sep,1750 S. White Rd.,San Jose,95127,Santa Clara,East Side Union High,No,Yes,No,Yes,2013
+1097,Gunderson High,Public,12-Sep,620 Gaundabert Ln.,San Jose,95136,Santa Clara,San Jose Unified,No,No,No,Yes,2013
+1162,Yerba Buena High,"Public, Magnet",12-Sep,1855 Lucretia Ave.,San Jose,95122,Santa Clara,East Side Union High,No,Yes,No,Yes,2013
+1276,Del Mar High,Public,12-Sep,1224 Del Mar Ave.,San Jose,95128,Santa Clara,Campbell Union High,No,No,No,Yes,2013
+1329,James Lick High,"Public, Magnet",12-Sep,57 N. White Rd.,San Jose,95127,Santa Clara,East Side Union High,No,Yes,No,Yes,2013
+1343,Alta Vista High,Public,12-Sep,1325 Bryant Ave.,Mountain View,94040,Santa Clara,Mountain View-Los Altos Union High,No,No,No,Yes,2013
+1427,William C. Overfelt High,"Public, Magnet",12-Sep,1835 Cunningham Ave.,San Jose,95122,Santa Clara,East Side Union High,No,Yes,No,Yes,2013
+1516,Boynton High,Public,12-Sep,901 Boynton Ave.,San Jose,95117,Santa Clara,Campbell Union High,No,No,No,No,2013
+1589,Broadway High,Public,12-Sep,4825 Speak Ln.,San Jose,95118,Santa Clara,San Jose Unified,No,No,No,Yes,2013
+1729,Mt. Madonna High,Public,12-Sep,8750 Hirasaki Ct.,Gilroy,95020,Santa Clara,Gilroy Unified,No,No,No,No,2013
+1876,ACE Charter High,"Public, Charter",12-Sep,1776 Edal Park Dr.,San Jose,95133,Santa Clara,East Side Union High,Yes,No,No,Yes,2013
+2128,San Jose Community High,Public,12-Sep,1155 E. Julian St.,San Jose,95116,Santa Clara,San Jose Unified,No,No,No,Yes,2013
+193,Burlingame High,Public,12-Sep,1 Mangini Way,Burlingame,94010,San Mateo,San Mateo Union High,No,No,No,No,2013
+202,Mills High,Public,12-Sep,400 Murchison Dr.,Millbrae,94030,San Mateo,San Mateo Union High,No,No,No,No,2013
+205,Summit Preparatory Charter High,"Public, Charter",12-Sep,890 BRd.way,Redwood City,94063,San Mateo,Sequoia Union High,Yes,No,No,Yes,2013
+208,Carlmont High,"Public, Magnet",12-Sep,1400 Alameda de Las Pulgas,Belmont,94002,San Mateo,Sequoia Union High,No,Yes,No,No,2013
+262,Aragon High,Public,12-Sep,900 Alameda de Las Pulgas,San Mateo,94402,San Mateo,San Mateo Union High,No,No,No,No,2013
+271,Menlo-Atherton High,Public,12-Sep,555 Midfield Rd.,Atherton,94025,San Mateo,Sequoia Union High,No,No,No,No,2013
+310,Everest Public High,"Public, Charter",12-Sep,455 Fifth Ave,Redwood City,94063,San Mateo,SBE - Everest Public High,Yes,No,(n/a),Yes,2013
+338,Oceana High,Public,12-Sep,401 Paloma Ave.,Pacifica,94044,San Mateo,Jefferson Union High,No,No,No,No,2013
+357,Hillsdale High,Public,12-Sep,3115 Del Monte St.,San Mateo,94403,San Mateo,San Mateo Union High,No,No,No,No,2013
+364,Terra Nova High,Public,12-Sep,1450 Terra Nova Blvd.,Pacifica,94044,San Mateo,Jefferson Union High,No,No,No,No,2013
+400,Half Moon Bay High,Public,12-Sep,1 Lewis Foster Dr.,Half Moon Bay,94019,San Mateo,Cabrillo Unified,No,No,No,Yes,2013
+404,Capuchino High,Public,12-Sep,1501 Magnolia Ave.,San Bruno,94066,San Mateo,San Mateo Union High,No,No,No,No,2013
+424,Sequoia High,Public,12-Sep,1201 Brewster Ave.,Redwood City,94062,San Mateo,Sequoia Union High,No,No,No,Yes,2013
+436,San Mateo High,Public,12-Sep,506 N. Delaware St.,San Mateo,94401,San Mateo,San Mateo Union High,No,No,No,No,2013
+473,Westmoor High,Public,12-Sep,131 W.moor Ave.,Daly City,94015,San Mateo,Jefferson Union High,No,No,No,No,2013
+673,El Camino High,Public,12-Sep,1320 Mission Rd.,South San Francisco,94080,San Mateo,South San Francisco Unified,No,No,No,No,2013
+738,Woodside High,Public,12-Sep,199 Churchill Ave.,Woodside,94062,San Mateo,Sequoia Union High,No,No,No,Yes,2013
+773,South San Francisco High,Public,12-Sep,400 B St.,South San Francisco,94080,San Mateo,South San Francisco Unified,No,No,No,No,2013
+863,Pescadero High,Public,12-Sep,350 Butano Cut Off,Pescadero,94060,San Mateo,La Honda-Pescadero Unified,No,No,No,Yes,2013
+1081,Jefferson High,Public,12-Sep,6996 Mission St.,Daly City,94014,San Mateo,Jefferson Union High,No,No,No,Yes,2013
+1643,Thornton High,Public,12-Sep,115 First Ave.,Daly City,94014,San Mateo,Jefferson Union High,No,No,No,No,2013
+1829,Redwood High,Public,12-Sep,1968 Old Co Rd.,Redwood City,94063,San Mateo,Sequoia Union High,No,No,No,Yes,2013
+58,Carlmont High,"Public, Magnet",12-Sep,1400 Alameda de Las Pulgas,Belmont,94002,San Mateo,Sequoia Union High,No,Yes,No,No,2018
+100,Burlingame High,Public,12-Sep,1 Mangini Way,Burlingame,94010,San Mateo,San Mateo Union High,No,No,No,No,2018
+119,Mills High,Public,12-Sep,400 Murchison Dr.,Millbrae,94030,San Mateo,San Mateo Union High,No,No,No,No,2018
+157,Aragon High,Public,12-Sep,900 Alameda de Las Pulgas,San Mateo,94402,San Mateo,San Mateo Union High,No,No,No,No,2018
+230,Hillsdale High,Public,12-Sep,3115 Del Monte St.,San Mateo,94403,San Mateo,San Mateo Union High,No,No,No,No,2018
+279,Oceana High,Public,12-Sep,401 Paloma Ave.,Pacifica,94044,San Mateo,Jefferson Union High,No,No,No,No,2018
+305,Westmoor High,Public,12-Sep,131 W.moor Ave.,Daly City,94015,San Mateo,Jefferson Union High,No,No,No,No,2018
+312,Summit Preparatory Charter High,"Public, Charter",12-Sep,890 BRd.way,Redwood City,94063,San Mateo,Sequoia Union High,Yes,No,No,Yes,2018
+419,San Mateo High,Public,12-Sep,506 N. Delaware St.,San Mateo,94401,San Mateo,San Mateo Union High,No,No,No,No,2018
+428,Half Moon Bay High,Public,12-Sep,1 Lewis Foster Dr.,Half Moon Bay,94019,San Mateo,Cabrillo Unified,No,No,No,Yes,2018
+467,Menlo-Atherton High,Public,12-Sep,555 Midfield Rd.,Atherton,94025,San Mateo,Sequoia Union High,No,No,No,No,2018
+471,Terra Nova High,Public,12-Sep,1450 Terra Nova Blvd.,Pacifica,94044,San Mateo,Jefferson Union High,No,No,No,No,2018
+509,Woodside High,Public,12-Sep,199 Churchill Ave.,Woodside,94062,San Mateo,Sequoia Union High,No,No,No,Yes,2018
+513,El Camino High,Public,12-Sep,1320 Mission Rd.,South San Francisco,94080,San Mateo,South San Francisco Unified,No,No,No,No,2018
+566,Capuchino High,Public,12-Sep,1501 Magnolia Ave.,San Bruno,94066,San Mateo,San Mateo Union High,No,No,No,No,2018
+579,Sequoia High,Public,12-Sep,1201 Brewster Ave.,Redwood City,94062,San Mateo,Sequoia Union High,No,No,No,Yes,2018
+807,South San Francisco High,Public,12-Sep,400 B St.,South San Francisco,94080,San Mateo,South San Francisco Unified,No,No,No,No,2018
+863,Jefferson High,Public,12-Sep,6996 Mission St.,Daly City,94014,San Mateo,Jefferson Union High,No,No,No,Yes,2018
+951,Pescadero High,Public,12-Sep,350 Butano Cut Off,Pescadero,94060,San Mateo,La Honda-Pescadero Unified,No,No,No,Yes,2018
+1157,Everest Public High,"Public, Charter",12-Sep,455 Fifth Ave.,Redwood City,94063,San Mateo,Sequoia Union High,Yes,No,No,Yes,2018
+1871,Thornton High,Public,12-Sep,115 First Ave.,Daly City,94014,San Mateo,Jefferson Union High,No,No,No,No,2018
+1940,Redwood High,Public,12-Sep,1968 Old Co Rd.,Redwood City,94063,San Mateo,Sequoia Union High,No,No,No,Yes,2018
+39,Mills High,Public,12-Sep,400 Murchison Dr.,Millbrae,94030,San Mateo,San Mateo Union High,No,No,No,No,2017
+68,Burlingame High,Public,12-Sep,1 Mangini Way,Burlingame,94010,San Mateo,San Mateo Union High,No,No,No,No,2017
+78,Carlmont High,"Public, Magnet",12-Sep,1400 Alameda de Las Pulgas,Belmont,94002,San Mateo,Sequoia Union High,No,Yes,No,No,2017
+107,Aragon High,Public,12-Sep,900 Alameda de Las Pulgas,San Mateo,94402,San Mateo,San Mateo Union High,No,No,No,No,2017
+151,Oceana High,Public,12-Sep,401 Paloma Ave.,Pacifica,94044,San Mateo,Jefferson Union High,No,No,No,No,2017
+225,Hillsdale High,Public,12-Sep,3115 Del Monte St.,San Mateo,94403,San Mateo,San Mateo Union High,No,No,No,No,2017
+240,Design Technical High,"Public, Charter",12-Sep,275 Oracle Pkwy.,Redwood City,94065,San Mateo,San Mateo Union High,Yes,No,No,(n/a),2017
+286,Menlo-Atherton High,Public,12-Sep,555 Midfield Rd.,Atherton,94025,San Mateo,Sequoia Union High,No,No,No,No,2017
+302,Westmoor High,Public,12-Sep,131 W.moor Ave.,Daly City,94015,San Mateo,Jefferson Union High,No,No,No,No,2017
+371,Capuchino High,Public,12-Sep,1501 Magnolia Ave.,San Bruno,94066,San Mateo,San Mateo Union High,No,No,No,No,2017
+378,Woodside High,Public,12-Sep,199 Churchill Ave.,Woodside,94062,San Mateo,Sequoia Union High,No,No,No,Yes,2017
+411,Sequoia High,Public,12-Sep,1201 Brewster Ave.,Redwood City,94062,San Mateo,Sequoia Union High,No,No,No,Yes,2017
+428,Everest Public High,"Public, Charter",12-Sep,455 Fifth Ave.,Redwood City,94063,San Mateo,Sequoia Union High,Yes,No,No,Yes,2017
+441,Pescadero High,Public,12-Sep,350 Butano Cut Off,Pescadero,94060,San Mateo,La Honda-Pescadero Unified,No,No,No,Yes,2017
+460,San Mateo High,Public,12-Sep,506 N. Delaware St.,San Mateo,94401,San Mateo,San Mateo Union High,No,No,No,No,2017
+480,Terra Nova High,Public,12-Sep,1450 Terra Nova Blvd.,Pacifica,94044,San Mateo,Jefferson Union High,No,No,No,No,2017
+615,Half Moon Bay High,Public,12-Sep,1 Lewis Foster Dr.,Half Moon Bay,94019,San Mateo,Cabrillo Unified,No,No,No,Yes,2017
+697,El Camino High,Public,12-Sep,1320 Mission Rd.,South San Francisco,94080,San Mateo,South San Francisco Unified,No,No,No,No,2017
+958,Jefferson High,Public,12-Sep,6996 Mission St.,Daly City,94014,San Mateo,Jefferson Union High,No,No,No,Yes,2017
+1047,South San Francisco High,Public,12-Sep,400 B St.,South San Francisco,94080,San Mateo,South San Francisco Unified,No,No,No,No,2017
+1630,Thornton High,Public,12-Sep,115 First Ave.,Daly City,94014,San Mateo,Jefferson Union High,No,No,No,No,2017
+1635,Peninsula High,Public,12-Sep,300 Piedmont Ave.,San Bruno,94066,San Mateo,San Mateo Union High,No,No,No,Yes,2017
+1835,Redwood High,Public,12-Sep,1968 Old Co Rd.,Redwood City,94063,San Mateo,Sequoia Union High,No,No,No,Yes,2017
+53,Mills High,Public,12-Sep,400 Murchison Dr.,Millbrae,94030,San Mateo,San Mateo Union High,No,No,No,No,2016
+69,Burlingame High,Public,12-Sep,1 Mangini Way,Burlingame,94010,San Mateo,San Mateo Union High,No,No,No,No,2016
+152,Aragon High,Public,12-Sep,900 Alameda de Las Pulgas,San Mateo,94402,San Mateo,San Mateo Union High,No,No,No,No,2016
+186,Summit Preparatory Charter High,"Public, Charter",12-Sep,890 BRd.way,Redwood City,94063,San Mateo,Sequoia Union High,Yes,No,No,Yes,2016
+189,Carlmont High,"Public, Magnet",12-Sep,1400 Alameda de Las Pulgas,Belmont,94002,San Mateo,Sequoia Union High,No,Yes,No,No,2016
+228,Oceana High,Public,12-Sep,401 Paloma Ave.,Pacifica,94044,San Mateo,Jefferson Union High,No,No,No,No,2016
+235,Hillsdale High,Public,12-Sep,3115 Del Monte St.,San Mateo,94403,San Mateo,San Mateo Union High,No,No,No,No,2016
+350,San Mateo High,Public,12-Sep,506 N. Delaware St.,San Mateo,94401,San Mateo,San Mateo Union High,No,No,No,No,2016
+379,Menlo-Atherton High,Public,12-Sep,555 Midfield Rd.,Atherton,94025,San Mateo,Sequoia Union High,No,No,No,No,2016
+434,Terra Nova High,Public,12-Sep,1450 Terra Nova Blvd.,Pacifica,94044,San Mateo,Jefferson Union High,No,No,No,No,2016
+510,Capuchino High,Public,12-Sep,1501 Magnolia Ave.,San Bruno,94066,San Mateo,San Mateo Union High,No,No,No,No,2016
+527,Half Moon Bay High,Public,12-Sep,1 Lewis Foster Dr.,Half Moon Bay,94019,San Mateo,Cabrillo Unified,No,No,No,Yes,2016
+563,El Camino High,Public,12-Sep,1320 Mission Rd.,South San Francisco,94080,San Mateo,South San Francisco Unified,No,No,No,No,2016
+577,Woodside High,Public,12-Sep,199 Churchill Ave.,Woodside,94062,San Mateo,Sequoia Union High,No,No,No,Yes,2016
+588,Sequoia High,Public,12-Sep,1201 Brewster Ave.,Redwood City,94062,San Mateo,Sequoia Union High,No,No,No,Yes,2016
+598,Pescadero High,Public,12-Sep,350 Butano Cut Off,Pescadero,94060,San Mateo,La Honda-Pescadero Unified,No,No,No,Yes,2016
+683,South San Francisco High,Public,12-Sep,400 B St.,South San Francisco,94080,San Mateo,South San Francisco Unified,No,No,No,No,2016
+709,Westmoor High,Public,12-Sep,131 W.moor Ave.,Daly City,94015,San Mateo,Jefferson Union High,No,No,No,No,2016
+813,Jefferson High,Public,12-Sep,6996 Mission St.,Daly City,94014,San Mateo,Jefferson Union High,No,No,No,Yes,2016
+1755,Peninsula High,Public,12-Sep,300 Piedmont Ave.,San Bruno,94066,San Mateo,San Mateo Union High,No,No,No,Yes,2016
+1875,Thornton High,Public,12-Sep,115 First Ave.,Daly City,94014,San Mateo,Jefferson Union High,No,No,No,No,2016
+1994,Redwood High,Public,12-Sep,1968 Old Co Rd.,Redwood City,94063,San Mateo,Sequoia Union High,No,No,No,Yes,2016
+66,Burlingame High,Public,12-Sep,1 Mangini Way,Burlingame,94010,San Mateo,San Mateo Union High,No,No,No,No,2015
+71,Mills High,Public,12-Sep,400 Murchison Dr.,Millbrae,94030,San Mateo,San Mateo Union High,No,No,No,No,2015
+134,Aragon High,Public,12-Sep,900 Alameda de Las Pulgas,San Mateo,94402,San Mateo,San Mateo Union High,No,No,No,No,2015
+157,Carlmont High,"Public, Magnet",12-Sep,1400 Alameda de Las Pulgas,Belmont,94002,San Mateo,Sequoia Union High,No,Yes,No,No,2015
+184,Summit Preparatory Charter High,"Public, Charter",12-Sep,890 BRd.way,Redwood City,94063,San Mateo,Sequoia Union High,Yes,No,No,Yes,2015
+226,Oceana High,Public,12-Sep,401 Paloma Ave.,Pacifica,94044,San Mateo,Jefferson Union High,No,No,No,No,2015
+338,Menlo-Atherton High,Public,12-Sep,555 Midfield Rd.,Atherton,94025,San Mateo,Sequoia Union High,No,No,No,No,2015
+346,Hillsdale High,Public,12-Sep,3115 Del Monte St.,San Mateo,94403,San Mateo,San Mateo Union High,No,No,No,No,2015
+357,San Mateo High,Public,12-Sep,506 N. Delaware St.,San Mateo,94401,San Mateo,San Mateo Union High,No,No,No,No,2015
+406,Terra Nova High,Public,12-Sep,1450 Terra Nova Blvd.,Pacifica,94044,San Mateo,Jefferson Union High,No,No,No,No,2015
+407,El Camino High,Public,12-Sep,1320 Mission Rd.,South San Francisco,94080,San Mateo,South San Francisco Unified,No,No,No,No,2015
+568,Capuchino High,Public,12-Sep,1501 Magnolia Ave.,San Bruno,94066,San Mateo,San Mateo Union High,No,No,No,No,2015
+573,Sequoia High,Public,12-Sep,1201 Brewster Ave.,Redwood City,94062,San Mateo,Sequoia Union High,No,No,No,Yes,2015
+581,South San Francisco High,Public,12-Sep,400 B St.,South San Francisco,94080,San Mateo,South San Francisco Unified,No,No,No,No,2015
+606,Half Moon Bay High,Public,12-Sep,1 Lewis Foster Dr.,Half Moon Bay,94019,San Mateo,Cabrillo Unified,No,No,No,Yes,2015
+652,Woodside High,Public,12-Sep,199 Churchill Ave.,Woodside,94062,San Mateo,Sequoia Union High,No,No,No,Yes,2015
+694,Westmoor High,Public,12-Sep,131 W.moor Ave.,Daly City,94015,San Mateo,Jefferson Union High,No,No,No,No,2015
+845,Jefferson High,Public,12-Sep,6996 Mission St.,Daly City,94014,San Mateo,Jefferson Union High,No,No,No,Yes,2015
+877,Pescadero High,Public,12-Sep,350 Butano Cut Off,Pescadero,94060,San Mateo,La Honda-Pescadero Unified,No,No,No,Yes,2015
+1648,Peninsula High,Public,12-Sep,300 Piedmont Ave.,San Bruno,94066,San Mateo,San Mateo Union High,No,No,No,Yes,2015
+1806,Redwood High,Public,12-Sep,1968 Old Co Rd.,Redwood City,94063,San Mateo,Sequoia Union High,No,No,No,Yes,2015
+1809,Thornton High,Public,12-Sep,115 First Ave.,Daly City,94014,San Mateo,Jefferson Union High,No,No,No,No,2015
+193,Burlingame High,Public,12-Sep,1 Mangini Way,Burlingame,94010,San Mateo,San Mateo Union High,No,No,No,No,2013
+202,Mills High,Public,12-Sep,400 Murchison Dr.,Millbrae,94030,San Mateo,San Mateo Union High,No,No,No,No,2013
+205,Summit Preparatory Charter High,"Public, Charter",12-Sep,890 BRd.way,Redwood City,94063,San Mateo,Sequoia Union High,Yes,No,No,Yes,2013
+208,Carlmont High,"Public, Magnet",12-Sep,1400 Alameda de Las Pulgas,Belmont,94002,San Mateo,Sequoia Union High,No,Yes,No,No,2013
+262,Aragon High,Public,12-Sep,900 Alameda de Las Pulgas,San Mateo,94402,San Mateo,San Mateo Union High,No,No,No,No,2013
+271,Menlo-Atherton High,Public,12-Sep,555 Midfield Rd.,Atherton,94025,San Mateo,Sequoia Union High,No,No,No,No,2013
+310,Everest Public High,"Public, Charter",12-Sep,455 Fifth Ave,Redwood City,94063,San Mateo,SBE - Everest Public High,Yes,No,(n/a),Yes,2013
+338,Oceana High,Public,12-Sep,401 Paloma Ave.,Pacifica,94044,San Mateo,Jefferson Union High,No,No,No,No,2013
+357,Hillsdale High,Public,12-Sep,3115 Del Monte St.,San Mateo,94403,San Mateo,San Mateo Union High,No,No,No,No,2013
+364,Terra Nova High,Public,12-Sep,1450 Terra Nova Blvd.,Pacifica,94044,San Mateo,Jefferson Union High,No,No,No,No,2013
+400,Half Moon Bay High,Public,12-Sep,1 Lewis Foster Dr.,Half Moon Bay,94019,San Mateo,Cabrillo Unified,No,No,No,Yes,2013
+404,Capuchino High,Public,12-Sep,1501 Magnolia Ave.,San Bruno,94066,San Mateo,San Mateo Union High,No,No,No,No,2013
+424,Sequoia High,Public,12-Sep,1201 Brewster Ave.,Redwood City,94062,San Mateo,Sequoia Union High,No,No,No,Yes,2013
+436,San Mateo High,Public,12-Sep,506 N. Delaware St.,San Mateo,94401,San Mateo,San Mateo Union High,No,No,No,No,2013
+473,Westmoor High,Public,12-Sep,131 W.moor Ave.,Daly City,94015,San Mateo,Jefferson Union High,No,No,No,No,2013
+673,El Camino High,Public,12-Sep,1320 Mission Rd.,South San Francisco,94080,San Mateo,South San Francisco Unified,No,No,No,No,2013
+738,Woodside High,Public,12-Sep,199 Churchill Ave.,Woodside,94062,San Mateo,Sequoia Union High,No,No,No,Yes,2013
+773,South San Francisco High,Public,12-Sep,400 B St.,South San Francisco,94080,San Mateo,South San Francisco Unified,No,No,No,No,2013
+863,Pescadero High,Public,12-Sep,350 Butano Cut Off,Pescadero,94060,San Mateo,La Honda-Pescadero Unified,No,No,No,Yes,2013
+1081,Jefferson High,Public,12-Sep,6996 Mission St.,Daly City,94014,San Mateo,Jefferson Union High,No,No,No,Yes,2013
+1643,Thornton High,Public,12-Sep,115 First Ave.,Daly City,94014,San Mateo,Jefferson Union High,No,No,No,No,2013
+1829,Redwood High,Public,12-Sep,1968 Old Co Rd.,Redwood City,94063,San Mateo,Sequoia Union High,No,No,No,Yes,2013

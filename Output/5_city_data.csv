@@ -1,0 +1,426 @@
+,State,County,City,Median Sale Price,Date,Month,Year
+50,California,"Santa Clara, CA",Santa Clara,465000.0,2/1/2012,2,2012
+64,California,"Santa Clara, CA",Santa Clara,690000.0,10/1/2013,10,2013
+80,California,"Oakland, CA",Oakland,610000.0,5/1/2015,5,2015
+109,California,"Santa Clara, CA",Santa Clara,541000.0,3/1/2012,3,2012
+193,California,"Oakland, CA",Oakland,499000.0,6/1/2014,6,2014
+272,California,"Oakland, CA",Oakland,334000.0,10/1/2012,10,2012
+385,California,"Santa Clara, CA",Santa Clara,1325000.0,12/1/2017,12,2017
+399,California,"Santa Clara, CA",Santa Clara,545000.0,7/1/2012,7,2012
+447,California,"Oakland, CA",Oakland,520000.0,8/1/2014,8,2014
+464,California,"Santa Clara, CA",Santa Clara,898000.0,7/1/2015,7,2015
+479,California,"Santa Clara, CA",Santa Clara,895000.0,3/1/2016,3,2016
+552,California,"Oakland, CA",Oakland,229000.0,2/1/2012,2,2012
+630,California,"Santa Clara, CA",Santa Clara,690000.0,11/1/2013,11,2013
+657,California,"Hayward, CA",Hayward,450000.0,4/1/2014,4,2014
+727,California,"Santa Clara, CA",Santa Clara,601000.0,8/1/2012,8,2012
+729,California,"Oakland, CA",Oakland,300000.0,8/1/2012,8,2012
+762,California,"Santa Clara, CA",Santa Clara,635000.0,5/1/2013,5,2013
+820,California,"Santa Clara, CA",Santa Clara,741000.0,5/1/2014,5,2014
+821,California,"Oakland, CA",Oakland,493000.0,5/1/2014,5,2014
+833,California,"Santa Clara, CA",Santa Clara,785000.0,8/1/2014,8,2014
+836,California,"Santa Clara, CA",Santa Clara,785000.0,9/1/2014,9,2014
+849,California,"Santa Clara, CA",Santa Clara,748000.0,11/1/2014,11,2014
+1002,California,"Santa Clara, CA",Santa Clara,1160000.0,6/1/2017,6,2017
+1017,California,"Santa Clara, CA",Santa Clara,1140000.0,10/1/2017,10,2017
+1165,California,"Santa Clara, CA",Santa Clara,670000.0,8/1/2013,8,2013
+1172,California,"Santa Clara, CA",Santa Clara,642000.0,9/1/2013,9,2013
+1236,California,"Oakland, CA",Oakland,490000.0,10/1/2014,10,2014
+1303,California,"Oakland, CA",Oakland,573000.0,6/1/2015,6,2015
+1441,California,"Santa Clara, CA",Santa Clara,638000.0,6/1/2012,6,2012
+1483,California,"Santa Clara, CA",Santa Clara,615000.0,1/1/2013,1,2013
+1499,California,"Oakland, CA",Oakland,350000.0,3/1/2013,3,2013
+1508,California,"Oakland, CA",Oakland,450000.0,4/1/2013,4,2013
+1515,California,"Santa Clara, CA",Santa Clara,684000.0,4/1/2013,4,2013
+1587,California,"Santa Clara, CA",Santa Clara,735000.0,12/1/2013,12,2013
+1615,California,"Santa Clara, CA",Santa Clara,708000.0,4/1/2014,4,2014
+1672,California,"Oakland, CA",Oakland,425000.0,1/1/2015,1,2015
+1767,California,"Oakland, CA",Oakland,270000.0,5/1/2012,5,2012
+1812,California,"Santa Clara, CA",Santa Clara,585000.0,10/1/2012,10,2012
+1845,California,"Hayward, CA",Hayward,320000.0,2/1/2013,2,2013
+1846,California,"Oakland, CA",Oakland,323000.0,2/1/2013,2,2013
+1877,California,"Santa Clara, CA",Santa Clara,695000.0,6/1/2013,6,2013
+1913,California,"Oakland, CA",Oakland,437000.0,11/1/2013,11,2013
+1919,California,"Oakland, CA",Oakland,420000.0,12/1/2013,12,2013
+1962,California,"Hayward, CA",Hayward,450000.0,5/1/2014,5,2014
+2014,California,"Oakland, CA",Oakland,536000.0,11/1/2014,11,2014
+2126,California,"Santa Clara, CA",Santa Clara,600000.0,5/1/2012,5,2012
+2138,California,"Oakland, CA",Oakland,300000.0,7/1/2012,7,2012
+2198,California,"Santa Clara, CA",Santa Clara,593000.0,12/1/2012,12,2012
+2204,California,"Oakland, CA",Oakland,344000.0,1/1/2013,1,2013
+2317,California,"Oakland, CA",Oakland,365000.0,1/1/2014,1,2014
+2338,California,"Oakland, CA",Oakland,423000.0,3/1/2014,3,2014
+2344,California,"Oakland, CA",Oakland,475000.0,4/1/2014,4,2014
+2378,California,"San Jose, CA",San Jose,670000.0,7/1/2014,7,2014
+2435,California,"Santa Clara, CA",Santa Clara,804000.0,1/1/2015,1,2015
+2448,California,"Oakland, CA",Oakland,495000.0,3/1/2015,3,2015
+2480,California,"Oakland, CA",Oakland,575000.0,7/1/2015,7,2015
+2524,California,"Santa Clara, CA",Santa Clara,903000.0,11/1/2015,11,2015
+2577,California,"Hayward, CA",Hayward,539000.0,6/1/2016,6,2016
+2593,California,"Oakland, CA",Oakland,630000.0,7/1/2016,7,2016
+2623,California,"Oakland, CA",Oakland,725000.0,11/1/2016,11,2016
+2630,California,"Santa Clara, CA",Santa Clara,914000.0,11/1/2016,11,2016
+2656,California,"Oakland, CA",Oakland,650000.0,2/1/2017,2,2017
+2680,California,"Oakland, CA",Oakland,700000.0,4/1/2017,4,2017
+2741,California,"Santa Clara, CA",Santa Clara,1175000.0,9/1/2017,9,2017
+2772,California,"Oakland, CA",Oakland,665000.0,1/1/2018,1,2018
+2792,California,"Santa Clara, CA",Santa Clara,1410000.0,3/1/2018,3,2018
+2834,California,"Santa Clara, CA",Santa Clara,483000.0,4/1/2012,4,2012
+2859,California,"Oakland, CA",Oakland,360000.0,11/1/2012,11,2012
+2863,California,"Oakland, CA",Oakland,360000.0,12/1/2012,12,2012
+2949,California,"Oakland, CA",Oakland,388000.0,2/1/2014,2,2014
+3002,California,"Oakland, CA",Oakland,483000.0,12/1/2014,12,2014
+3039,California,"Santa Clara, CA",Santa Clara,910000.0,6/1/2015,6,2015
+3051,California,"Oakland, CA",Oakland,550000.0,9/1/2015,9,2015
+3056,California,"Santa Clara, CA",Santa Clara,888000.0,9/1/2015,9,2015
+3074,California,"Oakland, CA",Oakland,565000.0,12/1/2015,12,2015
+3191,California,"Oakland, CA",Oakland,235000.0,3/1/2012,3,2012
+3213,California,"Hayward, CA",Hayward,251000.0,5/1/2012,5,2012
+3256,California,"Oakland, CA",Oakland,293000.0,9/1/2012,9,2012
+3321,California,"Santa Clara, CA",Santa Clara,648000.0,3/1/2013,3,2013
+3341,California,"Hayward, CA",Hayward,387000.0,5/1/2013,5,2013
+3351,California,"Oakland, CA",Oakland,448000.0,6/1/2013,6,2013
+3360,California,"Oakland, CA",Oakland,464000.0,7/1/2013,7,2013
+3370,California,"Oakland, CA",Oakland,451000.0,8/1/2013,8,2013
+3418,California,"Santa Clara, CA",Santa Clara,723000.0,1/1/2014,1,2014
+3431,California,"Santa Clara, CA",Santa Clara,735000.0,2/1/2014,2,2014
+3462,California,"Santa Clara, CA",Santa Clara,784000.0,6/1/2014,6,2014
+3470,California,"Oakland, CA",Oakland,529000.0,7/1/2014,7,2014
+3540,California,"Oakland, CA",Oakland,457000.0,2/1/2015,2,2015
+3571,California,"Santa Clara, CA",Santa Clara,856000.0,5/1/2015,5,2015
+3584,California,"San Jose, CA",San Jose,775000.0,6/1/2015,6,2015
+3681,California,"Oakland, CA",Oakland,635000.0,5/1/2016,5,2016
+3767,California,"Hayward, CA",Hayward,561000.0,1/1/2017,1,2017
+3773,California,"Santa Clara, CA",Santa Clara,923000.0,1/1/2017,1,2017
+3852,California,"Oakland, CA",Oakland,708000.0,11/1/2017,11,2017
+3865,California,"Oakland, CA",Oakland,675000.0,12/1/2017,12,2017
+4031,California,"Hayward, CA",Hayward,280000.0,9/1/2012,9,2012
+4042,California,"Santa Clara, CA",Santa Clara,595000.0,9/1/2012,9,2012
+4132,California,"Oakland, CA",Oakland,397000.0,5/1/2013,5,2013
+4189,California,"Oakland, CA",Oakland,450000.0,10/1/2013,10,2013
+4288,California,"Santa Clara, CA",Santa Clara,755000.0,7/1/2014,7,2014
+4293,California,"Hayward, CA",Hayward,450000.0,8/1/2014,8,2014
+4306,California,"Oakland, CA",Oakland,495000.0,9/1/2014,9,2014
+4356,California,"San Jose, CA",San Jose,645000.0,1/1/2015,1,2015
+4402,California,"Santa Clara, CA",Santa Clara,850000.0,4/1/2015,4,2015
+4452,California,"Hayward, CA",Hayward,488000.0,8/1/2015,8,2015
+4517,California,"Hayward, CA",Hayward,523000.0,1/1/2016,1,2016
+4526,California,"Santa Clara, CA",Santa Clara,920000.0,1/1/2016,1,2016
+4531,California,"Oakland, CA",Oakland,550000.0,2/1/2016,2,2016
+4591,California,"Santa Clara, CA",Santa Clara,955000.0,7/1/2016,7,2016
+4746,California,"Hayward, CA",Hayward,260000.0,4/1/2012,4,2012
+4781,California,"Hayward, CA",Hayward,262000.0,6/1/2012,6,2012
+4896,California,"Santa Clara, CA",Santa Clara,601000.0,2/1/2013,2,2013
+4908,California,"San Jose, CA",San Jose,575000.0,3/1/2013,3,2013
+5176,California,"San Jose, CA",San Jose,655000.0,9/1/2014,9,2014
+5230,California,"Fremont, CA",Fremont,718000.0,1/1/2015,1,2015
+5278,California,"Oakland, CA",Oakland,600000.0,4/1/2015,4,2015
+5540,California,"Oakland, CA",Oakland,269000.0,6/1/2012,6,2012
+5550,California,"San Jose, CA",San Jose,495000.0,6/1/2012,6,2012
+5559,California,"Hayward, CA",Hayward,282000.0,7/1/2012,7,2012
+5654,California,"San Jose, CA",San Jose,522000.0,1/1/2013,1,2013
+5690,California,"San Jose, CA",San Jose,629000.0,4/1/2013,4,2013
+6076,California,"San Jose, CA",San Jose,715000.0,3/1/2015,3,2015
+6155,California,"San Jose, CA",San Jose,755000.0,8/1/2015,8,2015
+6163,California,"Hayward, CA",Hayward,532000.0,9/1/2015,9,2015
+6179,California,"Hayward, CA",Hayward,489000.0,10/1/2015,10,2015
+6249,California,"Fremont, CA",Fremont,780000.0,2/1/2016,2,2016
+6276,California,"San Jose, CA",San Jose,800000.0,3/1/2016,3,2016
+6369,California,"Oakland, CA",Oakland,638000.0,9/1/2016,9,2016
+6394,California,"San Jose, CA",San Jose,810000.0,10/1/2016,10,2016
+6412,California,"San Jose, CA",San Jose,799000.0,11/1/2016,11,2016
+6629,California,"San Jose, CA",San Jose,1000000.0,12/1/2017,12,2017
+6649,California,"Hayward, CA",Hayward,650000.0,2/1/2018,2,2018
+6774,California,"San Jose, CA",San Jose,1005000.0,9/1/2018,9,2018
+6775,California,"Santa Clara, CA",Santa Clara,1265000.0,9/1/2018,9,2018
+6789,California,"San Jose, CA",San Jose,1045000.0,10/1/2018,10,2018
+6864,California,"Santa Clara, CA",Santa Clara,1185000.0,1/1/2019,1,2019
+6983,California,"Oakland, CA",Oakland,241000.0,4/1/2012,4,2012
+7078,California,"Santa Clara, CA",Santa Clara,600000.0,11/1/2012,11,2012
+7140,California,"San Jose, CA",San Jose,650000.0,5/1/2013,5,2013
+7180,California,"Oakland, CA",Oakland,438000.0,9/1/2013,9,2013
+7202,California,"San Jose, CA",San Jose,626000.0,10/1/2013,10,2013
+7375,California,"Santa Clara, CA",Santa Clara,775000.0,10/1/2014,10,2014
+7400,California,"San Jose, CA",San Jose,660000.0,12/1/2014,12,2014
+7404,California,"Hayward, CA",Hayward,429000.0,1/1/2015,1,2015
+7420,California,"Santa Clara, CA",Santa Clara,780000.0,2/1/2015,2,2015
+7699,California,"Hayward, CA",Hayward,229000.0,2/1/2012,2,2012
+7800,California,"Fremont, CA",Fremont,525000.0,8/1/2012,8,2012
+7876,California,"Hayward, CA",Hayward,310000.0,12/1/2012,12,2012
+8146,California,"San Jose, CA",San Jose,651000.0,3/1/2014,3,2014
+8245,California,"Hayward, CA",Hayward,430000.0,10/1/2014,10,2014
+8347,California,"Santa Clara, CA",Santa Clara,878000.0,3/1/2015,3,2015
+8512,California,"Santa Clara, CA",Santa Clara,910000.0,12/1/2015,12,2015
+8659,California,"Santa Clara, CA",Santa Clara,940000.0,8/1/2016,8,2016
+8723,California,"San Jose, CA",San Jose,772000.0,12/1/2016,12,2016
+8737,California,"Oakland, CA",Oakland,603000.0,1/1/2017,1,2017
+8758,California,"Hayward, CA",Hayward,566000.0,2/1/2017,2,2017
+8816,California,"Hayward, CA",Hayward,620000.0,5/1/2017,5,2017
+8878,California,"Santa Clara, CA",Santa Clara,1185000.0,8/1/2017,8,2017
+8905,California,"Hayward, CA",Hayward,645000.0,10/1/2017,10,2017
+8914,California,"Hayward, CA",Hayward,622000.0,11/1/2017,11,2017
+9057,California,"Santa Clara, CA",Santa Clara,1261000.0,10/1/2018,10,2018
+9352,California,"Fremont, CA",Fremont,416000.0,2/1/2012,2,2012
+9448,California,"Fremont, CA",Fremont,511000.0,6/1/2012,6,2012
+9490,California,"San Jose, CA",San Jose,509000.0,7/1/2012,7,2012
+9498,California,"Hayward, CA",Hayward,305000.0,8/1/2012,8,2012
+9526,California,"Fremont, CA",Fremont,560000.0,9/1/2012,9,2012
+9567,California,"San Jose, CA",San Jose,515000.0,10/1/2012,10,2012
+9581,California,"Fremont, CA",Fremont,535000.0,11/1/2012,11,2012
+9602,California,"Fremont, CA",Fremont,525000.0,12/1/2012,12,2012
+9625,California,"Fremont, CA",Fremont,530000.0,1/1/2013,1,2013
+9688,California,"Fremont, CA",Fremont,620000.0,4/1/2013,4,2013
+9755,California,"San Jose, CA",San Jose,645000.0,6/1/2013,6,2013
+9796,California,"San Jose, CA",San Jose,620000.0,8/1/2013,8,2013
+9833,California,"Fremont, CA",Fremont,648000.0,10/1/2013,10,2013
+9878,California,"Hayward, CA",Hayward,405000.0,12/1/2013,12,2013
+9960,California,"Hayward, CA",Hayward,425000.0,3/1/2014,3,2014
+9974,California,"Santa Clara, CA",Santa Clara,769000.0,3/1/2014,3,2014
+10173,California,"Hayward, CA",Hayward,430000.0,12/1/2014,12,2014
+10224,California,"Santa Clara, CA",Santa Clara,973000.0,10/1/2016,10,2016
+10246,California,"Oakland, CA",Oakland,677000.0,3/1/2017,3,2017
+10259,California,"Oakland, CA",Oakland,740000.0,6/1/2017,6,2017
+10370,California,"Oakland, CA",Oakland,790000.0,11/1/2018,11,2018
+10723,California,"San Jose, CA",San Jose,400000.0,2/1/2012,2,2012
+10730,California,"Fremont, CA",Fremont,450000.0,3/1/2012,3,2012
+10751,California,"Fremont, CA",Fremont,450000.0,4/1/2012,4,2012
+10781,California,"San Jose, CA",San Jose,456000.0,5/1/2012,5,2012
+10922,California,"San Jose, CA",San Jose,515000.0,12/1/2012,12,2012
+11490,California,"Oakland, CA",Oakland,758000.0,9/1/2018,9,2018
+11495,California,"Santa Clara, CA",Santa Clara,1250000.0,11/1/2018,11,2018
+11864,California,"Hayward, CA",Hayward,305000.0,11/1/2012,11,2012
+12072,California,"Hayward, CA",Hayward,388000.0,9/1/2013,9,2013
+12149,California,"Hayward, CA",Hayward,436000.0,1/1/2014,1,2014
+12255,California,"Hayward, CA",Hayward,425000.0,6/1/2014,6,2014
+12435,California,"San Jose, CA",San Jose,686000.0,2/1/2015,2,2015
+12444,California,"Hayward, CA",Hayward,475000.0,3/1/2015,3,2015
+12562,California,"San Jose, CA",San Jose,762000.0,9/1/2015,9,2015
+12672,California,"San Jose, CA",San Jose,758000.0,2/1/2016,2,2016
+12705,California,"Hayward, CA",Hayward,539000.0,4/1/2016,4,2016
+13149,California,"Hayward, CA",Hayward,310000.0,10/1/2012,10,2012
+13305,California,"Hayward, CA",Hayward,400000.0,6/1/2013,6,2013
+13329,California,"Fremont, CA",Fremont,650000.0,7/1/2013,7,2013
+13330,California,"Hayward, CA",Hayward,399000.0,7/1/2013,7,2013
+13347,California,"San Jose, CA",San Jose,645000.0,7/1/2013,7,2013
+13404,California,"Hayward, CA",Hayward,397000.0,10/1/2013,10,2013
+13492,California,"San Jose, CA",San Jose,599000.0,1/1/2014,1,2014
+13520,California,"San Jose, CA",San Jose,625000.0,2/1/2014,2,2014
+13613,California,"San Jose, CA",San Jose,691000.0,6/1/2014,6,2014
+13624,California,"Hayward, CA",Hayward,440000.0,7/1/2014,7,2014
+13666,California,"Fremont, CA",Fremont,695000.0,9/1/2014,9,2014
+13669,California,"Hayward, CA",Hayward,425000.0,9/1/2014,9,2014
+13903,California,"Fremont, CA",Fremont,808000.0,7/1/2015,7,2015
+14012,California,"San Jose, CA",San Jose,750000.0,11/1/2015,11,2015
+14138,California,"Oakland, CA",Oakland,810000.0,6/1/2018,6,2018
+14480,California,"Fremont, CA",Fremont,548000.0,7/1/2012,7,2012
+14519,California,"San Jose, CA",San Jose,520000.0,8/1/2012,8,2012
+14540,California,"San Jose, CA",San Jose,501000.0,9/1/2012,9,2012
+14820,California,"Hayward, CA",Hayward,405000.0,11/1/2013,11,2013
+14977,California,"Fremont, CA",Fremont,710000.0,6/1/2014,6,2014
+15027,California,"San Jose, CA",San Jose,690000.0,8/1/2014,8,2014
+15095,California,"San Jose, CA",San Jose,680000.0,11/1/2014,11,2014
+15250,California,"Hayward, CA",Hayward,495000.0,7/1/2015,7,2015
+15262,California,"San Jose, CA",San Jose,795000.0,7/1/2015,7,2015
+15282,California,"Santa Clara, CA",Santa Clara,920000.0,8/1/2015,8,2015
+15374,California,"San Jose, CA",San Jose,741000.0,12/1/2015,12,2015
+15450,California,"Santa Clara, CA",Santa Clara,956000.0,4/1/2016,4,2016
+15459,California,"Fremont, CA",Fremont,864000.0,5/1/2016,5,2016
+15529,California,"Oakland, CA",Oakland,610000.0,8/1/2015,8,2015
+15539,California,"Oakland, CA",Oakland,588000.0,10/1/2015,10,2015
+15565,California,"Santa Clara, CA",Santa Clara,975000.0,6/1/2016,6,2016
+15609,California,"Oakland, CA",Oakland,675000.0,5/1/2017,5,2017
+16159,California,"Hayward, CA",Hayward,327000.0,1/1/2013,1,2013
+16208,California,"San Jose, CA",San Jose,550000.0,2/1/2013,2,2013
+16248,California,"Hayward, CA",Hayward,367000.0,4/1/2013,4,2013
+16336,California,"Santa Clara, CA",Santa Clara,673000.0,7/1/2013,7,2013
+16345,California,"Hayward, CA",Hayward,421000.0,8/1/2013,8,2013
+16452,California,"Fremont, CA",Fremont,636000.0,12/1/2013,12,2013
+16475,California,"Fremont, CA",Fremont,626000.0,1/1/2014,1,2014
+16669,California,"Fremont, CA",Fremont,725000.0,10/1/2014,10,2014
+16689,California,"Hayward, CA",Hayward,423000.0,11/1/2014,11,2014
+16816,California,"Fremont, CA",Fremont,827000.0,5/1/2015,5,2015
+16837,California,"Fremont, CA",Fremont,788000.0,6/1/2015,6,2015
+16919,California,"Oakland, CA",Oakland,600000.0,11/1/2015,11,2015
+17055,California,"Santa Clara, CA",Santa Clara,1035000.0,3/1/2017,3,2017
+17107,California,"Oakland, CA",Oakland,670000.0,9/1/2017,9,2017
+17158,California,"Oakland, CA",Oakland,778000.0,4/1/2018,4,2018
+17166,California,"Oakland, CA",Oakland,773000.0,5/1/2018,5,2018
+17625,California,"Hayward, CA",Hayward,235000.0,3/1/2012,3,2012
+17642,California,"San Jose, CA",San Jose,425000.0,3/1/2012,3,2012
+17677,California,"Fremont, CA",Fremont,475000.0,5/1/2012,5,2012
+17917,California,"Fremont, CA",Fremont,660000.0,3/1/2013,3,2013
+17967,California,"Fremont, CA",Fremont,655000.0,5/1/2013,5,2013
+17986,California,"Fremont, CA",Fremont,681000.0,6/1/2013,6,2013
+18030,California,"Fremont, CA",Fremont,640000.0,8/1/2013,8,2013
+18049,California,"Fremont, CA",Fremont,606000.0,9/1/2013,9,2013
+18118,California,"Santa Clara, CA",Santa Clara,920000.0,10/1/2015,10,2015
+18136,California,"Oakland, CA",Oakland,550000.0,1/1/2016,1,2016
+18191,California,"Santa Clara, CA",Santa Clara,995000.0,5/1/2016,5,2016
+18195,California,"Oakland, CA",Oakland,668000.0,6/1/2016,6,2016
+18227,California,"Oakland, CA",Oakland,620000.0,10/1/2016,10,2016
+18275,California,"Santa Clara, CA",Santa Clara,1050000.0,4/1/2017,4,2017
+18309,California,"Santa Clara, CA",Santa Clara,1110000.0,7/1/2017,7,2017
+18361,California,"Oakland, CA",Oakland,653000.0,2/1/2018,2,2018
+18368,California,"Santa Clara, CA",Santa Clara,1500000.0,2/1/2018,2,2018
+18815,California,"San Jose, CA",San Jose,470000.0,4/1/2012,4,2012
+18930,California,"Fremont, CA",Fremont,550000.0,10/1/2012,10,2012
+19186,California,"San Jose, CA",San Jose,615000.0,11/1/2013,11,2013
+19239,California,"Fremont, CA",Fremont,695000.0,2/1/2014,2,2014
+19242,California,"Hayward, CA",Hayward,410000.0,2/1/2014,2,2014
+19269,California,"Hayward, CA",Hayward,543000.0,10/1/2016,10,2016
+19293,California,"Hayward, CA",Hayward,555000.0,12/1/2016,12,2016
+19294,California,"Oakland, CA",Oakland,600000.0,12/1/2016,12,2016
+19377,California,"Oakland, CA",Oakland,675000.0,7/1/2017,7,2017
+19399,California,"Hayward, CA",Hayward,645000.0,9/1/2017,9,2017
+19416,California,"San Jose, CA",San Jose,947000.0,10/1/2017,10,2017
+19431,California,"Santa Clara, CA",Santa Clara,1200000.0,11/1/2017,11,2017
+19432,California,"San Jose, CA",San Jose,964000.0,11/1/2017,11,2017
+19455,California,"Santa Clara, CA",Santa Clara,1306000.0,1/1/2018,1,2018
+19518,California,"Santa Clara, CA",Santa Clara,1350000.0,5/1/2018,5,2018
+19527,California,"Santa Clara, CA",Santa Clara,1420000.0,6/1/2018,6,2018
+19632,California,"San Jose, CA",San Jose,623000.0,9/1/2013,9,2013
+19693,California,"San Jose, CA",San Jose,608000.0,12/1/2013,12,2013
+19807,California,"Fremont, CA",Fremont,755000.0,5/1/2014,5,2014
+19948,California,"Fremont, CA",Fremont,690000.0,11/1/2014,11,2014
+19973,California,"Santa Clara, CA",Santa Clara,764000.0,12/1/2014,12,2014
+20185,California,"Fremont, CA",Fremont,745000.0,10/1/2015,10,2015
+20204,California,"Fremont, CA",Fremont,780000.0,11/1/2015,11,2015
+20247,California,"Fremont, CA",Fremont,807000.0,1/1/2016,1,2016
+20295,California,"Hayward, CA",Hayward,520000.0,3/1/2016,3,2016
+20314,California,"Fremont, CA",Fremont,843000.0,4/1/2016,4,2016
+20330,California,"San Jose, CA",San Jose,817000.0,4/1/2016,4,2016
+20372,California,"Fremont, CA",Fremont,801000.0,6/1/2016,6,2016
+20392,California,"Fremont, CA",Fremont,838000.0,7/1/2016,7,2016
+20393,California,"Hayward, CA",Hayward,539000.0,7/1/2016,7,2016
+20415,California,"Fremont, CA",Fremont,835000.0,8/1/2016,8,2016
+20461,California,"Fremont, CA",Fremont,854000.0,10/1/2016,10,2016
+20563,California,"San Jose, CA",San Jose,824000.0,2/1/2017,2,2017
+20593,California,"Fremont, CA",Fremont,918000.0,4/1/2017,4,2017
+20670,California,"Fremont, CA",Fremont,951000.0,7/1/2017,7,2017
+20721,California,"Fremont, CA",Fremont,906000.0,9/1/2017,9,2017
+20735,California,"San Jose, CA",San Jose,900000.0,9/1/2017,9,2017
+20789,California,"Hayward, CA",Hayward,640000.0,12/1/2017,12,2017
+20830,California,"San Jose, CA",San Jose,931000.0,1/1/2018,1,2018
+20916,California,"San Jose, CA",San Jose,1126000.0,4/1/2018,4,2018
+20947,California,"Fremont, CA",Fremont,1165000.0,6/1/2018,6,2018
+20971,California,"Fremont, CA",Fremont,1095000.0,7/1/2018,7,2018
+21019,California,"Fremont, CA",Fremont,1080000.0,9/1/2018,9,2018
+21108,California,"Fremont, CA",Fremont,978000.0,1/1/2019,1,2019
+21133,California,"Fremont, CA",Fremont,956000.0,2/1/2019,2,2019
+21167,California,"Oakland, CA",Oakland,725000.0,3/1/2018,3,2018
+21180,California,"Santa Clara, CA",Santa Clara,1450000.0,4/1/2018,4,2018
+21204,California,"Santa Clara, CA",Santa Clara,1351000.0,7/1/2018,7,2018
+21309,California,"Fremont, CA",Fremont,725000.0,4/1/2014,4,2014
+21324,California,"San Jose, CA",San Jose,685000.0,4/1/2014,4,2014
+21340,California,"San Jose, CA",San Jose,695000.0,5/1/2014,5,2014
+21381,California,"Fremont, CA",Fremont,700000.0,8/1/2014,8,2014
+21503,California,"Fremont, CA",Fremont,706000.0,2/1/2015,2,2015
+21566,California,"Hayward, CA",Hayward,485000.0,5/1/2015,5,2015
+21707,California,"Fremont, CA",Fremont,775000.0,12/1/2015,12,2015
+21750,California,"San Jose, CA",San Jose,690000.0,1/1/2016,1,2016
+21757,California,"Hayward, CA",Hayward,515000.0,2/1/2016,2,2016
+21773,California,"Fremont, CA",Fremont,845000.0,3/1/2016,3,2016
+21818,California,"San Jose, CA",San Jose,840000.0,5/1/2016,5,2016
+21864,California,"San Jose, CA",San Jose,820000.0,7/1/2016,7,2016
+21994,California,"Fremont, CA",Fremont,875000.0,1/1/2017,1,2017
+22033,California,"Fremont, CA",Fremont,925000.0,3/1/2017,3,2017
+22096,California,"Fremont, CA",Fremont,940000.0,6/1/2017,6,2017
+22215,California,"Fremont, CA",Fremont,995000.0,12/1/2017,12,2017
+22282,California,"San Jose, CA",San Jose,1050000.0,2/1/2018,2,2018
+22323,California,"Fremont, CA",Fremont,1190000.0,5/1/2018,5,2018
+22375,California,"Fremont, CA",Fremont,1080000.0,8/1/2018,8,2018
+22385,California,"San Jose, CA",San Jose,1078000.0,8/1/2018,8,2018
+22451,California,"San Jose, CA",San Jose,952000.0,12/1/2018,12,2018
+22525,California,"Hayward, CA",Hayward,520000.0,12/1/2015,12,2015
+22574,California,"Oakland, CA",Oakland,640000.0,4/1/2016,4,2016
+22656,California,"Santa Clara, CA",Santa Clara,965000.0,9/1/2016,9,2016
+22675,California,"Hayward, CA",Hayward,545000.0,11/1/2016,11,2016
+22688,California,"Santa Clara, CA",Santa Clara,963000.0,12/1/2016,12,2016
+22766,California,"Hayward, CA",Hayward,636000.0,7/1/2017,7,2017
+22882,California,"Hayward, CA",Hayward,665000.0,3/1/2018,3,2018
+22999,California,"Hayward, CA",Hayward,673000.0,1/1/2019,1,2019
+23063,California,"Hayward, CA",Hayward,690000.0,8/1/2018,8,2018
+23082,California,"Santa Clara, CA",Santa Clara,1319000.0,8/1/2018,8,2018
+23390,California,"San Jose, CA",San Jose,525000.0,11/1/2012,11,2012
+23404,California,"Fremont, CA",Fremont,540000.0,2/1/2013,2,2013
+23413,California,"Hayward, CA",Hayward,335000.0,3/1/2013,3,2013
+23459,California,"Fremont, CA",Fremont,607000.0,11/1/2013,11,2013
+23476,California,"Fremont, CA",Fremont,675000.0,3/1/2014,3,2014
+23500,California,"Fremont, CA",Fremont,743000.0,7/1/2014,7,2014
+23531,California,"Fremont, CA",Fremont,721000.0,12/1/2014,12,2014
+23583,California,"Fremont, CA",Fremont,807000.0,9/1/2015,9,2015
+24079,California,"San Jose, CA",San Jose,895000.0,7/1/2017,7,2017
+24216,California,"Fremont, CA",Fremont,1000000.0,2/1/2018,2,2018
+24261,California,"Fremont, CA",Fremont,1160000.0,4/1/2018,4,2018
+24263,California,"Hayward, CA",Hayward,670000.0,4/1/2018,4,2018
+24422,California,"Hayward, CA",Hayward,620000.0,11/1/2018,11,2018
+24492,California,"San Jose, CA",San Jose,943000.0,2/1/2019,2,2019
+24508,California,"Hayward, CA",Hayward,683000.0,5/1/2018,5,2018
+24533,California,"Oakland, CA",Oakland,760000.0,7/1/2018,7,2018
+24551,California,"Oakland, CA",Oakland,785000.0,8/1/2018,8,2018
+24586,California,"Oakland, CA",Oakland,679000.0,12/1/2018,12,2018
+24600,California,"Oakland, CA",Oakland,635000.0,1/1/2019,1,2019
+24619,California,"Fremont, CA",Fremont,800000.0,8/1/2015,8,2015
+24906,California,"San Jose, CA",San Jose,790000.0,8/1/2016,8,2016
+25086,California,"San Jose, CA",San Jose,840000.0,3/1/2017,3,2017
+25097,California,"Hayward, CA",Hayward,600000.0,4/1/2017,4,2017
+25440,California,"Hayward, CA",Hayward,670000.0,6/1/2018,6,2018
+25460,California,"San Jose, CA",San Jose,1108000.0,6/1/2018,6,2018
+25615,California,"Hayward, CA",Hayward,675000.0,12/1/2018,12,2018
+25629,California,"Santa Clara, CA",Santa Clara,1193000.0,12/1/2018,12,2018
+25650,California,"San Jose, CA",San Jose,950000.0,1/1/2019,1,2019
+25658,California,"Hayward, CA",Hayward,650000.0,2/1/2019,2,2019
+25731,California,"Hayward, CA",Hayward,490000.0,11/1/2015,11,2015
+25789,California,"Oakland, CA",Oakland,580000.0,3/1/2016,3,2016
+25859,California,"Oakland, CA",Oakland,665000.0,8/1/2016,8,2016
+25999,California,"San Jose, CA",San Jose,875000.0,4/1/2017,4,2017
+26066,California,"Hayward, CA",Hayward,617000.0,8/1/2017,8,2017
+26099,California,"Oakland, CA",Oakland,673000.0,10/1/2017,10,2017
+26147,California,"Hayward, CA",Hayward,699000.0,1/1/2018,1,2018
+26347,California,"Santa Clara, CA",Santa Clara,1250000.0,2/1/2019,2,2019
+26846,California,"San Jose, CA",San Jose,1125000.0,3/1/2018,3,2018
+26885,California,"San Jose, CA",San Jose,1151000.0,5/1/2018,5,2018
+26930,California,"San Jose, CA",San Jose,1050000.0,7/1/2018,7,2018
+26971,California,"Hayward, CA",Hayward,660000.0,9/1/2018,9,2018
+27126,California,"Hayward, CA",Hayward,538000.0,8/1/2016,8,2016
+27148,California,"Fremont, CA",Fremont,865000.0,9/1/2016,9,2016
+27156,California,"San Jose, CA",San Jose,770000.0,9/1/2016,9,2016
+27260,California,"Santa Clara, CA",Santa Clara,935000.0,2/1/2017,2,2017
+27269,California,"Hayward, CA",Hayward,594000.0,3/1/2017,3,2017
+27322,California,"Santa Clara, CA",Santa Clara,1126000.0,5/1/2017,5,2017
+27333,California,"Hayward, CA",Hayward,619000.0,6/1/2017,6,2017
+27344,California,"San Jose, CA",San Jose,895000.0,6/1/2017,6,2017
+27364,California,"Oakland, CA",Oakland,683000.0,8/1/2017,8,2017
+27418,California,"Fremont, CA",Fremont,947000.0,11/1/2017,11,2017
+27833,California,"Oakland, CA",Oakland,757000.0,10/1/2018,10,2018
+27866,California,"Oakland, CA",Oakland,730000.0,2/1/2019,2,2019
+27949,California,"Fremont, CA",Fremont,765000.0,4/1/2015,4,2015
+27950,California,"Hayward, CA",Hayward,448000.0,4/1/2015,4,2015
+27964,California,"San Jose, CA",San Jose,770000.0,4/1/2015,4,2015
+27976,California,"San Jose, CA",San Jose,761000.0,5/1/2015,5,2015
+27997,California,"Hayward, CA",Hayward,505000.0,6/1/2015,6,2015
+28107,California,"San Jose, CA",San Jose,756000.0,10/1/2015,10,2015
+28207,California,"Santa Clara, CA",Santa Clara,1012000.0,2/1/2016,2,2016
+28407,California,"Fremont, CA",Fremont,870000.0,11/1/2016,11,2016
+28486,California,"Fremont, CA",Fremont,870000.0,2/1/2017,2,2017
+28556,California,"Fremont, CA",Fremont,911000.0,5/1/2017,5,2017
+28571,California,"San Jose, CA",San Jose,865000.0,5/1/2017,5,2017
+28647,California,"San Jose, CA",San Jose,870000.0,8/1/2017,8,2017
+29019,California,"San Jose, CA",San Jose,978000.0,11/1/2018,11,2018
+29028,California,"Fremont, CA",Fremont,942000.0,12/1/2018,12,2018
+29117,California,"San Jose, CA",San Jose,682000.0,10/1/2014,10,2014
+29198,California,"Hayward, CA",Hayward,442000.0,2/1/2015,2,2015
+29226,California,"Fremont, CA",Fremont,786000.0,3/1/2015,3,2015
+29558,California,"Hayward, CA",Hayward,555000.0,5/1/2016,5,2016
+29588,California,"San Jose, CA",San Jose,835000.0,6/1/2016,6,2016
+29653,California,"Hayward, CA",Hayward,525000.0,9/1/2016,9,2016
+29733,California,"Fremont, CA",Fremont,816000.0,12/1/2016,12,2016
+29779,California,"San Jose, CA",San Jose,763000.0,1/1/2017,1,2017
+29930,California,"Fremont, CA",Fremont,930000.0,8/1/2017,8,2017
+29983,California,"Fremont, CA",Fremont,1015000.0,10/1/2017,10,2017
+30060,California,"Fremont, CA",Fremont,1008000.0,1/1/2018,1,2018
+30105,California,"Fremont, CA",Fremont,1121000.0,3/1/2018,3,2018
+30198,California,"Hayward, CA",Hayward,693000.0,7/1/2018,7,2018
+30274,California,"Fremont, CA",Fremont,1100000.0,10/1/2018,10,2018
+30275,California,"Hayward, CA",Hayward,640000.0,10/1/2018,10,2018
+30303,California,"Fremont, CA",Fremont,1024000.0,11/1/2018,11,2018
