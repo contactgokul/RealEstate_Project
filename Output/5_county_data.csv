@@ -1,0 +1,426 @@
+,State,County,City,Median Sale Price,Date,Month,Year
+50,California,"Santa Clara, CA",Santa Clara,465000.0,2/1/2012,2,2012
+64,California,"Santa Clara, CA",Santa Clara,690000.0,10/1/2013,10,2013
+84,California,"Alameda, CA",Alameda,782000.0,9/1/2015,9,2015
+109,California,"Santa Clara, CA",Santa Clara,541000.0,3/1/2012,3,2012
+125,California,"Alameda, CA",Alameda,488000.0,9/1/2012,9,2012
+158,California,"Alameda, CA",Alameda,630000.0,6/1/2013,6,2013
+175,California,"Alameda, CA",Alameda,615000.0,12/1/2013,12,2013
+222,California,"Alameda, CA",Alameda,775000.0,3/1/2015,3,2015
+241,California,"Alameda, CA",Alameda,755000.0,8/1/2015,8,2015
+351,California,"Alameda, CA",Alameda,850000.0,5/1/2016,5,2016
+363,California,"Alameda, CA",Alameda,880000.0,12/1/2016,12,2016
+385,California,"Santa Clara, CA",Santa Clara,1325000.0,12/1/2017,12,2017
+399,California,"Santa Clara, CA",Santa Clara,545000.0,7/1/2012,7,2012
+464,California,"Santa Clara, CA",Santa Clara,898000.0,7/1/2015,7,2015
+479,California,"Santa Clara, CA",Santa Clara,895000.0,3/1/2016,3,2016
+488,California,"Alameda, CA",Alameda,827000.0,8/1/2016,8,2016
+614,California,"Alameda, CA",Alameda,568000.0,8/1/2013,8,2013
+618,California,"Alameda, CA",Alameda,655000.0,9/1/2013,9,2013
+630,California,"Santa Clara, CA",Santa Clara,690000.0,11/1/2013,11,2013
+714,California,"Alameda, CA",Alameda,518000.0,6/1/2012,6,2012
+727,California,"Santa Clara, CA",Santa Clara,601000.0,8/1/2012,8,2012
+762,California,"Santa Clara, CA",Santa Clara,635000.0,5/1/2013,5,2013
+763,California,"Alameda, CA",Alameda,605000.0,5/1/2013,5,2013
+820,California,"Santa Clara, CA",Santa Clara,741000.0,5/1/2014,5,2014
+826,California,"Alameda, CA",Alameda,799000.0,6/1/2014,6,2014
+833,California,"Santa Clara, CA",Santa Clara,785000.0,8/1/2014,8,2014
+836,California,"Santa Clara, CA",Santa Clara,785000.0,9/1/2014,9,2014
+849,California,"Santa Clara, CA",Santa Clara,748000.0,11/1/2014,11,2014
+889,California,"Alameda, CA",Alameda,785000.0,7/1/2015,7,2015
+1002,California,"Santa Clara, CA",Santa Clara,1160000.0,6/1/2017,6,2017
+1017,California,"Santa Clara, CA",Santa Clara,1140000.0,10/1/2017,10,2017
+1054,California,"Alameda, CA",Alameda,402000.0,2/1/2012,2,2012
+1058,California,"Alameda, CA",Alameda,439000.0,3/1/2012,3,2012
+1165,California,"Santa Clara, CA",Santa Clara,670000.0,8/1/2013,8,2013
+1172,California,"Santa Clara, CA",Santa Clara,642000.0,9/1/2013,9,2013
+1230,California,"Alameda, CA",Alameda,710000.0,9/1/2014,9,2014
+1302,California,"Alameda, CA",Alameda,780000.0,6/1/2015,6,2015
+1441,California,"Santa Clara, CA",Santa Clara,638000.0,6/1/2012,6,2012
+1483,California,"Santa Clara, CA",Santa Clara,615000.0,1/1/2013,1,2013
+1488,California,"Alameda, CA",Alameda,549000.0,2/1/2013,2,2013
+1515,California,"Santa Clara, CA",Santa Clara,684000.0,4/1/2013,4,2013
+1536,California,"Alameda, CA",Alameda,650000.0,7/1/2013,7,2013
+1587,California,"Santa Clara, CA",Santa Clara,735000.0,12/1/2013,12,2013
+1596,California,"Alameda, CA",Alameda,726000.0,2/1/2014,2,2014
+1615,California,"Santa Clara, CA",Santa Clara,708000.0,4/1/2014,4,2014
+1647,California,"Alameda, CA",Alameda,721000.0,10/1/2014,10,2014
+1765,California,"Alameda, CA",Alameda,503000.0,5/1/2012,5,2012
+1812,California,"Santa Clara, CA",Santa Clara,585000.0,10/1/2012,10,2012
+1814,California,"Alameda, CA",Alameda,508000.0,11/1/2012,11,2012
+1822,California,"Alameda, CA",Alameda,515000.0,12/1/2012,12,2012
+1877,California,"Santa Clara, CA",Santa Clara,695000.0,6/1/2013,6,2013
+1953,California,"Alameda, CA",Alameda,725000.0,4/1/2014,4,2014
+2013,California,"Alameda, CA",Alameda,680000.0,11/1/2014,11,2014
+2126,California,"Santa Clara, CA",Santa Clara,600000.0,5/1/2012,5,2012
+2145,California,"Alameda, CA",Alameda,520000.0,8/1/2012,8,2012
+2198,California,"Santa Clara, CA",Santa Clara,593000.0,12/1/2012,12,2012
+2293,California,"Alameda, CA",Alameda,625000.0,10/1/2013,10,2013
+2435,California,"Santa Clara, CA",Santa Clara,804000.0,1/1/2015,1,2015
+2524,California,"Santa Clara, CA",Santa Clara,903000.0,11/1/2015,11,2015
+2530,California,"Alameda, CA",Alameda,810000.0,12/1/2015,12,2015
+2630,California,"Santa Clara, CA",Santa Clara,914000.0,11/1/2016,11,2016
+2642,California,"Alameda, CA",Alameda,792000.0,1/1/2017,1,2017
+2741,California,"Santa Clara, CA",Santa Clara,1175000.0,9/1/2017,9,2017
+2785,California,"Alameda, CA",Alameda,875000.0,3/1/2018,3,2018
+2792,California,"Santa Clara, CA",Santa Clara,1410000.0,3/1/2018,3,2018
+2834,California,"Santa Clara, CA",Santa Clara,483000.0,4/1/2012,4,2012
+2952,California,"Alameda, CA",Alameda,700000.0,3/1/2014,3,2014
+2982,California,"Alameda, CA",Alameda,780000.0,8/1/2014,8,2014
+3039,California,"Santa Clara, CA",Santa Clara,910000.0,6/1/2015,6,2015
+3056,California,"Santa Clara, CA",Santa Clara,888000.0,9/1/2015,9,2015
+3311,California,"San Francisco, CA",San Francisco,825000.0,2/1/2013,2,2013
+3321,California,"Santa Clara, CA",Santa Clara,648000.0,3/1/2013,3,2013
+3329,California,"Alameda, CA",Alameda,657000.0,4/1/2013,4,2013
+3418,California,"Santa Clara, CA",Santa Clara,723000.0,1/1/2014,1,2014
+3431,California,"Santa Clara, CA",Santa Clara,735000.0,2/1/2014,2,2014
+3462,California,"Santa Clara, CA",Santa Clara,784000.0,6/1/2014,6,2014
+3571,California,"Santa Clara, CA",Santa Clara,856000.0,5/1/2015,5,2015
+3729,California,"Alameda, CA",Alameda,850000.0,9/1/2016,9,2016
+3773,California,"Santa Clara, CA",Santa Clara,923000.0,1/1/2017,1,2017
+4042,California,"Santa Clara, CA",Santa Clara,595000.0,9/1/2012,9,2012
+4045,California,"Alameda, CA",Alameda,562000.0,10/1/2012,10,2012
+4111,California,"Alameda, CA",Alameda,453000.0,3/1/2013,3,2013
+4129,California,"San Francisco, CA",San Francisco,915000.0,4/1/2013,4,2013
+4280,California,"Alameda, CA",Alameda,640000.0,7/1/2014,7,2014
+4288,California,"Santa Clara, CA",Santa Clara,755000.0,7/1/2014,7,2014
+4324,California,"San Francisco, CA",San Francisco,1063000.0,10/1/2014,10,2014
+4365,California,"Alameda, CA",Alameda,720000.0,2/1/2015,2,2015
+4402,California,"Santa Clara, CA",Santa Clara,850000.0,4/1/2015,4,2015
+4409,California,"Alameda, CA",Alameda,830000.0,5/1/2015,5,2015
+4489,California,"Alameda, CA",Alameda,800000.0,11/1/2015,11,2015
+4526,California,"Santa Clara, CA",Santa Clara,920000.0,1/1/2016,1,2016
+4591,California,"Santa Clara, CA",Santa Clara,955000.0,7/1/2016,7,2016
+4627,California,"Alameda, CA",Alameda,974000.0,10/1/2018,10,2018
+4797,California,"Alameda, CA",Alameda,521000.0,7/1/2012,7,2012
+4885,California,"San Francisco, CA",San Francisco,760000.0,1/1/2013,1,2013
+4895,California,"San Mateo, CA",San Mateo,670000.0,2/1/2013,2,2013
+4896,California,"Santa Clara, CA",Santa Clara,601000.0,2/1/2013,2,2013
+5023,California,"San Francisco, CA",San Francisco,925000.0,11/1/2013,11,2013
+5672,California,"Napa, CA",Napa,382000.0,3/1/2013,3,2013
+5704,California,"San Francisco, CA",San Francisco,912000.0,5/1/2013,5,2013
+5899,California,"Alameda, CA",Alameda,655000.0,5/1/2014,5,2014
+5911,California,"San Francisco, CA",San Francisco,1050000.0,5/1/2014,5,2014
+6187,California,"San Mateo, CA",San Mateo,1004000.0,10/1/2015,10,2015
+6264,California,"Alameda, CA",Alameda,785000.0,3/1/2016,3,2016
+6313,California,"San Francisco, CA",San Francisco,1295000.0,5/1/2016,5,2016
+6442,California,"San Mateo, CA",San Mateo,1100000.0,1/1/2017,1,2017
+6573,California,"San Francisco, CA",San Francisco,1295000.0,9/1/2017,9,2017
+6640,California,"San Francisco, CA",San Francisco,1250000.0,1/1/2018,1,2018
+6775,California,"Santa Clara, CA",Santa Clara,1265000.0,9/1/2018,9,2018
+6851,California,"Alameda, CA",Alameda,1001000.0,9/1/2017,9,2017
+6857,California,"Alameda, CA",Alameda,815000.0,2/1/2018,2,2018
+6864,California,"Santa Clara, CA",Santa Clara,1185000.0,1/1/2019,1,2019
+7029,California,"San Francisco, CA",San Francisco,760000.0,7/1/2012,7,2012
+7078,California,"Santa Clara, CA",Santa Clara,600000.0,11/1/2012,11,2012
+7089,California,"Alameda, CA",Alameda,522000.0,1/1/2013,1,2013
+7231,California,"Alameda, CA",Alameda,580000.0,1/1/2014,1,2014
+7241,California,"San Francisco, CA",San Francisco,987000.0,1/1/2014,1,2014
+7278,California,"San Francisco, CA",San Francisco,1005000.0,4/1/2014,4,2014
+7375,California,"Santa Clara, CA",Santa Clara,775000.0,10/1/2014,10,2014
+7394,California,"Alameda, CA",Alameda,689000.0,12/1/2014,12,2014
+7399,California,"San Francisco, CA",San Francisco,1056000.0,12/1/2014,12,2014
+7420,California,"Santa Clara, CA",Santa Clara,780000.0,2/1/2015,2,2015
+7709,California,"San Mateo, CA",San Mateo,609000.0,2/1/2012,2,2012
+7730,California,"Napa, CA",Napa,322000.0,4/1/2012,4,2012
+7732,California,"Alameda, CA",Alameda,510000.0,4/1/2012,4,2012
+7742,California,"San Francisco, CA",San Francisco,753000.0,4/1/2012,4,2012
+7798,California,"Napa, CA",Napa,384000.0,8/1/2012,8,2012
+7828,California,"San Francisco, CA",San Francisco,768000.0,9/1/2012,9,2012
+7847,California,"San Mateo, CA",San Mateo,731000.0,10/1/2012,10,2012
+8091,California,"San Francisco, CA",San Francisco,866000.0,12/1/2013,12,2013
+8237,California,"San Francisco, CA",San Francisco,982000.0,9/1/2014,9,2014
+8283,California,"San Francisco, CA",San Francisco,1123000.0,11/1/2014,11,2014
+8318,California,"Napa, CA",Napa,504000.0,2/1/2015,2,2015
+8347,California,"Santa Clara, CA",Santa Clara,878000.0,3/1/2015,3,2015
+8390,California,"San Francisco, CA",San Francisco,1300000.0,5/1/2015,5,2015
+8478,California,"Napa, CA",Napa,625000.0,11/1/2015,11,2015
+8501,California,"Napa, CA",Napa,568000.0,12/1/2015,12,2015
+8512,California,"Santa Clara, CA",Santa Clara,910000.0,12/1/2015,12,2015
+8583,California,"San Francisco, CA",San Francisco,1315000.0,4/1/2016,4,2016
+8659,California,"Santa Clara, CA",Santa Clara,940000.0,8/1/2016,8,2016
+8722,California,"San Mateo, CA",San Mateo,1123000.0,12/1/2016,12,2016
+8772,California,"San Francisco, CA",San Francisco,1275000.0,2/1/2017,2,2017
+8877,California,"San Mateo, CA",San Mateo,1281000.0,8/1/2017,8,2017
+8878,California,"Santa Clara, CA",Santa Clara,1185000.0,8/1/2017,8,2017
+9057,California,"Santa Clara, CA",Santa Clara,1261000.0,10/1/2018,10,2018
+9419,California,"Napa, CA",Napa,330000.0,5/1/2012,5,2012
+9436,California,"San Mateo, CA",San Mateo,605000.0,5/1/2012,5,2012
+9462,California,"San Mateo, CA",San Mateo,624000.0,6/1/2012,6,2012
+9463,California,"San Francisco, CA",San Francisco,765000.0,6/1/2012,6,2012
+9613,California,"San Mateo, CA",San Mateo,625000.0,12/1/2012,12,2012
+9806,California,"Napa, CA",Napa,433000.0,9/1/2013,9,2013
+9859,California,"Alameda, CA",Alameda,620000.0,11/1/2013,11,2013
+9974,California,"Santa Clara, CA",Santa Clara,769000.0,3/1/2014,3,2014
+9983,California,"Napa, CA",Napa,450000.0,4/1/2014,4,2014
+10114,California,"Napa, CA",Napa,495000.0,9/1/2014,9,2014
+10224,California,"Santa Clara, CA",Santa Clara,973000.0,10/1/2016,10,2016
+10244,California,"Alameda, CA",Alameda,900000.0,2/1/2017,2,2017
+10264,California,"Alameda, CA",Alameda,965000.0,7/1/2017,7,2017
+10354,California,"Alameda, CA",Alameda,975000.0,9/1/2018,9,2018
+10379,California,"Alameda, CA",Alameda,810000.0,1/1/2019,1,2019
+10787,California,"Napa, CA",Napa,324000.0,6/1/2012,6,2012
+10835,California,"San Francisco, CA",San Francisco,750000.0,8/1/2012,8,2012
+10836,California,"San Mateo, CA",San Mateo,627000.0,8/1/2012,8,2012
+10855,California,"San Mateo, CA",San Mateo,652000.0,9/1/2012,9,2012
+10897,California,"San Mateo, CA",San Mateo,715000.0,11/1/2012,11,2012
+10917,California,"San Francisco, CA",San Francisco,825000.0,12/1/2012,12,2012
+10948,California,"San Mateo, CA",San Mateo,714000.0,1/1/2013,1,2013
+11002,California,"San Francisco, CA",San Francisco,900000.0,3/1/2013,3,2013
+11047,California,"San Mateo, CA",San Mateo,717000.0,5/1/2013,5,2013
+11423,California,"Alameda, CA",Alameda,806000.0,11/1/2016,11,2016
+11438,California,"Alameda, CA",Alameda,950000.0,5/1/2017,5,2017
+11495,California,"Santa Clara, CA",Santa Clara,1250000.0,11/1/2018,11,2018
+11712,California,"Napa, CA",Napa,329000.0,3/1/2012,3,2012
+12105,California,"San Mateo, CA",San Mateo,828000.0,10/1/2013,10,2013
+12167,California,"Napa, CA",Napa,471000.0,2/1/2014,2,2014
+12224,California,"San Mateo, CA",San Mateo,810000.0,4/1/2014,4,2014
+12271,California,"San Francisco, CA",San Francisco,1100000.0,6/1/2014,6,2014
+12281,California,"Napa, CA",Napa,528000.0,7/1/2014,7,2014
+12350,California,"San Mateo, CA",San Mateo,955000.0,10/1/2014,10,2014
+12458,California,"Alameda, CA",Alameda,765000.0,4/1/2015,4,2015
+12643,California,"San Francisco, CA",San Francisco,1151000.0,1/1/2016,1,2016
+13060,California,"San Francisco, CA",San Francisco,735000.0,5/1/2012,5,2012
+13090,California,"Napa, CA",Napa,373000.0,7/1/2012,7,2012
+13147,California,"Napa, CA",Napa,365000.0,10/1/2012,10,2012
+13162,California,"San Francisco, CA",San Francisco,820000.0,10/1/2012,10,2012
+13190,California,"Napa, CA",Napa,340000.0,12/1/2012,12,2012
+13274,California,"San Mateo, CA",San Mateo,820000.0,4/1/2013,4,2013
+13321,California,"San Francisco, CA",San Francisco,883000.0,6/1/2013,6,2013
+13391,California,"San Mateo, CA",San Mateo,801000.0,9/1/2013,9,2013
+13431,California,"Napa, CA",Napa,453000.0,11/1/2013,11,2013
+13464,California,"San Mateo, CA",San Mateo,785000.0,12/1/2013,12,2013
+13517,California,"San Francisco, CA",San Francisco,988000.0,2/1/2014,2,2014
+13527,California,"Napa, CA",Napa,472000.0,3/1/2014,3,2014
+13691,California,"Napa, CA",Napa,500000.0,10/1/2014,10,2014
+13764,California,"Napa, CA",Napa,505000.0,1/1/2015,1,2015
+13805,California,"San Mateo, CA",San Mateo,949000.0,2/1/2015,2,2015
+13941,California,"San Mateo, CA",San Mateo,1070000.0,8/1/2015,8,2015
+13988,California,"San Francisco, CA",San Francisco,1204000.0,10/1/2015,10,2015
+14135,California,"Alameda, CA",Alameda,920000.0,4/1/2018,4,2018
+14395,California,"San Francisco, CA",San Francisco,674000.0,2/1/2012,2,2012
+14612,California,"Napa, CA",Napa,389000.0,1/1/2013,1,2013
+14712,California,"Napa, CA",Napa,485000.0,6/1/2013,6,2013
+14745,California,"San Mateo, CA",San Mateo,765000.0,7/1/2013,7,2013
+14757,California,"Napa, CA",Napa,500000.0,8/1/2013,8,2013
+14771,California,"San Mateo, CA",San Mateo,820000.0,8/1/2013,8,2013
+14809,California,"San Francisco, CA",San Francisco,929000.0,10/1/2013,10,2013
+14872,California,"Napa, CA",Napa,500000.0,1/1/2014,1,2014
+14903,California,"San Mateo, CA",San Mateo,853000.0,2/1/2014,2,2014
+14975,California,"Napa, CA",Napa,490000.0,6/1/2014,6,2014
+15008,California,"San Francisco, CA",San Francisco,1030000.0,7/1/2014,7,2014
+15050,California,"San Mateo, CA",San Mateo,950000.0,9/1/2014,9,2014
+15081,California,"Napa, CA",Napa,579000.0,11/1/2014,11,2014
+15140,California,"San Francisco, CA",San Francisco,997000.0,1/1/2015,1,2015
+15187,California,"Napa, CA",Napa,550000.0,4/1/2015,4,2015
+15227,California,"Napa, CA",Napa,545000.0,6/1/2015,6,2015
+15282,California,"Santa Clara, CA",Santa Clara,920000.0,8/1/2015,8,2015
+15351,California,"San Francisco, CA",San Francisco,1227000.0,11/1/2015,11,2015
+15450,California,"Santa Clara, CA",Santa Clara,956000.0,4/1/2016,4,2016
+15511,California,"Alameda, CA",Alameda,750000.0,1/1/2015,1,2015
+15555,California,"Alameda, CA",Alameda,845000.0,2/1/2016,2,2016
+15565,California,"Santa Clara, CA",Santa Clara,975000.0,6/1/2016,6,2016
+15595,California,"Alameda, CA",Alameda,860000.0,3/1/2017,3,2017
+15631,California,"Alameda, CA",Alameda,885000.0,1/1/2018,1,2018
+16234,California,"San Mateo, CA",San Mateo,774000.0,3/1/2013,3,2013
+16273,California,"Napa, CA",Napa,430000.0,5/1/2013,5,2013
+16317,California,"San Mateo, CA",San Mateo,863000.0,6/1/2013,6,2013
+16326,California,"Napa, CA",Napa,445000.0,7/1/2013,7,2013
+16336,California,"Santa Clara, CA",Santa Clara,673000.0,7/1/2013,7,2013
+16365,California,"San Francisco, CA",San Francisco,880000.0,8/1/2013,8,2013
+16398,California,"San Francisco, CA",San Francisco,876000.0,9/1/2013,9,2013
+16438,California,"San Mateo, CA",San Mateo,750000.0,11/1/2013,11,2013
+16451,California,"Napa, CA",Napa,420000.0,12/1/2013,12,2013
+16531,California,"San Mateo, CA",San Mateo,820000.0,3/1/2014,3,2014
+16635,California,"San Mateo, CA",San Mateo,907000.0,8/1/2014,8,2014
+16709,California,"Napa, CA",Napa,445000.0,12/1/2014,12,2014
+16718,California,"San Mateo, CA",San Mateo,960000.0,12/1/2014,12,2014
+16806,California,"San Francisco, CA",San Francisco,1250000.0,4/1/2015,4,2015
+16830,California,"San Mateo, CA",San Mateo,1183000.0,5/1/2015,5,2015
+16864,California,"Napa, CA",Napa,592000.0,7/1/2015,7,2015
+16911,California,"Alameda, CA",Alameda,880000.0,10/1/2015,10,2015
+16931,California,"Alameda, CA",Alameda,880000.0,1/1/2016,1,2016
+17055,California,"Santa Clara, CA",Santa Clara,1035000.0,3/1/2017,3,2017
+17062,California,"Alameda, CA",Alameda,902000.0,4/1/2017,4,2017
+17165,California,"Alameda, CA",Alameda,885000.0,5/1/2018,5,2018
+17167,California,"San Francisco, CA",San Francisco,1438000.0,5/1/2018,5,2018
+17202,California,"Alameda, CA",Alameda,933000.0,11/1/2018,11,2018
+17216,California,"Alameda, CA",Alameda,1010000.0,2/1/2019,2,2019
+17605,California,"Napa, CA",Napa,320000.0,2/1/2012,2,2012
+17640,California,"San Francisco, CA",San Francisco,699000.0,3/1/2012,3,2012
+17670,California,"San Mateo, CA",San Mateo,590000.0,4/1/2012,4,2012
+17777,California,"Napa, CA",Napa,354000.0,9/1/2012,9,2012
+17898,California,"Napa, CA",Napa,420000.0,2/1/2013,2,2013
+18118,California,"Santa Clara, CA",Santa Clara,920000.0,10/1/2015,10,2015
+18191,California,"Santa Clara, CA",Santa Clara,995000.0,5/1/2016,5,2016
+18194,California,"Alameda, CA",Alameda,851000.0,6/1/2016,6,2016
+18205,California,"Alameda, CA",Alameda,835000.0,7/1/2016,7,2016
+18275,California,"Santa Clara, CA",Santa Clara,1050000.0,4/1/2017,4,2017
+18294,California,"Alameda, CA",Alameda,914000.0,6/1/2017,6,2017
+18309,California,"Santa Clara, CA",Santa Clara,1110000.0,7/1/2017,7,2017
+18368,California,"Santa Clara, CA",Santa Clara,1500000.0,2/1/2018,2,2018
+18430,California,"Alameda, CA",Alameda,951000.0,12/1/2018,12,2018
+18877,California,"San Mateo, CA",San Mateo,715000.0,7/1/2012,7,2012
+18942,California,"Napa, CA",Napa,368000.0,11/1/2012,11,2012
+18958,California,"San Francisco, CA",San Francisco,810000.0,11/1/2012,11,2012
+19039,California,"Napa, CA",Napa,425000.0,4/1/2013,4,2013
+19094,California,"San Francisco, CA",San Francisco,880000.0,7/1/2013,7,2013
+19413,California,"Alameda, CA",Alameda,910000.0,10/1/2017,10,2017
+19431,California,"Santa Clara, CA",Santa Clara,1200000.0,11/1/2017,11,2017
+19455,California,"Santa Clara, CA",Santa Clara,1306000.0,1/1/2018,1,2018
+19518,California,"Santa Clara, CA",Santa Clara,1350000.0,5/1/2018,5,2018
+19527,California,"Santa Clara, CA",Santa Clara,1420000.0,6/1/2018,6,2018
+19545,California,"Alameda, CA",Alameda,1014000.0,8/1/2018,8,2018
+19639,California,"Napa, CA",Napa,482000.0,10/1/2013,10,2013
+19722,California,"San Mateo, CA",San Mateo,793000.0,1/1/2014,1,2014
+19806,California,"Napa, CA",Napa,555000.0,5/1/2014,5,2014
+19821,California,"San Mateo, CA",San Mateo,875000.0,5/1/2014,5,2014
+19846,California,"San Mateo, CA",San Mateo,868000.0,6/1/2014,6,2014
+19867,California,"San Mateo, CA",San Mateo,790000.0,7/1/2014,7,2014
+19880,California,"Napa, CA",Napa,478000.0,8/1/2014,8,2014
+19973,California,"Santa Clara, CA",Santa Clara,764000.0,12/1/2014,12,2014
+20040,California,"San Francisco, CA",San Francisco,1160000.0,3/1/2015,3,2015
+20073,California,"Napa, CA",Napa,565000.0,5/1/2015,5,2015
+20101,California,"San Francisco, CA",San Francisco,1225000.0,6/1/2015,6,2015
+20120,California,"San Mateo, CA",San Mateo,1255000.0,7/1/2015,7,2015
+20183,California,"Napa, CA",Napa,565000.0,10/1/2015,10,2015
+20391,California,"Napa, CA",Napa,635000.0,7/1/2016,7,2016
+20427,California,"San Francisco, CA",San Francisco,1196000.0,8/1/2016,8,2016
+20493,California,"San Mateo, CA",San Mateo,1022000.0,11/1/2016,11,2016
+20539,California,"San Francisco, CA",San Francisco,1140000.0,1/1/2017,1,2017
+20548,California,"Napa, CA",Napa,532000.0,2/1/2017,2,2017
+20720,California,"Napa, CA",Napa,600000.0,9/1/2017,9,2017
+20779,California,"San Francisco, CA",San Francisco,1388000.0,11/1/2017,11,2017
+20787,California,"Napa, CA",Napa,669000.0,12/1/2017,12,2017
+20868,California,"Napa, CA",Napa,635000.0,3/1/2018,3,2018
+21119,California,"San Mateo, CA",San Mateo,1255000.0,1/1/2019,1,2019
+21120,California,"San Francisco, CA",San Francisco,1210000.0,1/1/2019,1,2019
+21180,California,"Santa Clara, CA",Santa Clara,1450000.0,4/1/2018,4,2018
+21204,California,"Santa Clara, CA",Santa Clara,1351000.0,7/1/2018,7,2018
+21299,California,"San Francisco, CA",San Francisco,1023000.0,3/1/2014,3,2014
+21399,California,"San Francisco, CA",San Francisco,1006000.0,8/1/2014,8,2014
+21461,California,"San Mateo, CA",San Mateo,960000.0,11/1/2014,11,2014
+21531,California,"San Mateo, CA",San Mateo,985000.0,3/1/2015,3,2015
+21553,California,"San Mateo, CA",San Mateo,1098000.0,4/1/2015,4,2015
+21616,California,"San Francisco, CA",San Francisco,1183000.0,7/1/2015,7,2015
+21651,California,"Napa, CA",Napa,615000.0,9/1/2015,9,2015
+21665,California,"San Francisco, CA",San Francisco,1180000.0,9/1/2015,9,2015
+21748,California,"San Mateo, CA",San Mateo,980000.0,1/1/2016,1,2016
+21767,California,"San Francisco, CA",San Francisco,1220000.0,2/1/2016,2,2016
+21772,California,"Napa, CA",Napa,550000.0,3/1/2016,3,2016
+21795,California,"Napa, CA",Napa,631000.0,4/1/2016,4,2016
+21808,California,"Napa, CA",Napa,603000.0,5/1/2016,5,2016
+21862,California,"San Mateo, CA",San Mateo,1202000.0,7/1/2016,7,2016
+21901,California,"Napa, CA",Napa,610000.0,9/1/2016,9,2016
+21919,California,"San Mateo, CA",San Mateo,1140000.0,9/1/2016,9,2016
+21920,California,"San Francisco, CA",San Francisco,1153000.0,9/1/2016,9,2016
+21928,California,"Napa, CA",Napa,580000.0,10/1/2016,10,2016
+21964,California,"San Francisco, CA",San Francisco,1200000.0,11/1/2016,11,2016
+21992,California,"Napa, CA",Napa,650000.0,1/1/2017,1,2017
+22095,California,"Napa, CA",Napa,640000.0,6/1/2017,6,2017
+22160,California,"San Mateo, CA",San Mateo,1224000.0,9/1/2017,9,2017
+22281,California,"San Francisco, CA",San Francisco,1400000.0,2/1/2018,2,2018
+22337,California,"San Mateo, CA",San Mateo,1500000.0,5/1/2018,5,2018
+22346,California,"Napa, CA",Napa,695000.0,6/1/2018,6,2018
+22358,California,"San Mateo, CA",San Mateo,1450000.0,6/1/2018,6,2018
+22372,California,"San Francisco, CA",San Francisco,1365000.0,7/1/2018,7,2018
+22411,California,"San Francisco, CA",San Francisco,1400000.0,10/1/2018,10,2018
+22438,California,"Napa, CA",Napa,622000.0,12/1/2018,12,2018
+22450,California,"San Mateo, CA",San Mateo,1350000.0,12/1/2018,12,2018
+22573,California,"Alameda, CA",Alameda,840000.0,4/1/2016,4,2016
+22641,California,"San Mateo, CA",San Mateo,1088000.0,8/1/2016,8,2016
+22656,California,"Santa Clara, CA",Santa Clara,965000.0,9/1/2016,9,2016
+22688,California,"Santa Clara, CA",Santa Clara,963000.0,12/1/2016,12,2016
+22757,California,"San Francisco, CA",San Francisco,1310000.0,6/1/2017,6,2017
+22780,California,"Alameda, CA",Alameda,820000.0,8/1/2017,8,2017
+22913,California,"Alameda, CA",Alameda,1075000.0,6/1/2018,6,2018
+22921,California,"Alameda, CA",Alameda,1063000.0,7/1/2018,7,2018
+23044,California,"San Francisco, CA",San Francisco,1405000.0,6/1/2018,6,2018
+23082,California,"Santa Clara, CA",Santa Clara,1319000.0,8/1/2018,8,2018
+23336,California,"San Mateo, CA",San Mateo,642000.0,3/1/2012,3,2012
+23573,California,"San Mateo, CA",San Mateo,991000.0,6/1/2015,6,2015
+23579,California,"Napa, CA",Napa,547000.0,8/1/2015,8,2015
+23724,California,"San Mateo, CA",San Mateo,1363000.0,2/1/2018,2,2018
+23733,California,"San Francisco, CA",San Francisco,1453000.0,3/1/2018,3,2018
+23802,California,"Napa, CA",Napa,605000.0,1/1/2019,1,2019
+24038,California,"San Francisco, CA",San Francisco,1302000.0,5/1/2017,5,2017
+24141,California,"San Mateo, CA",San Mateo,1288000.0,10/1/2017,10,2017
+24167,California,"San Mateo, CA",San Mateo,1379000.0,11/1/2017,11,2017
+24186,California,"San Mateo, CA",San Mateo,1405000.0,12/1/2017,12,2017
+24398,California,"Napa, CA",Napa,640000.0,10/1/2018,10,2018
+24429,California,"San Francisco, CA",San Francisco,1340000.0,11/1/2018,11,2018
+24489,California,"San Mateo, CA",San Mateo,1185000.0,2/1/2019,2,2019
+24490,California,"San Francisco, CA",San Francisco,1311000.0,2/1/2019,2,2019
+24570,California,"San Mateo, CA",San Mateo,1450000.0,10/1/2018,10,2018
+24629,California,"San Francisco, CA",San Francisco,1200000.0,8/1/2015,8,2015
+24723,California,"San Mateo, CA",San Mateo,1022000.0,12/1/2015,12,2015
+24764,California,"San Mateo, CA",San Mateo,1085000.0,2/1/2016,2,2016
+25005,California,"San Francisco, CA",San Francisco,1200000.0,12/1/2016,12,2016
+25115,California,"San Mateo, CA",San Mateo,1250000.0,4/1/2017,4,2017
+25155,California,"Napa, CA",Napa,630000.0,7/1/2017,7,2017
+25177,California,"San Francisco, CA",San Francisco,1288000.0,7/1/2017,7,2017
+25269,California,"Napa, CA",Napa,649000.0,11/1/2017,11,2017
+25374,California,"San Mateo, CA",San Mateo,1443000.0,3/1/2018,3,2018
+25400,California,"San Mateo, CA",San Mateo,1470000.0,4/1/2018,4,2018
+25584,California,"Napa, CA",Napa,641000.0,11/1/2018,11,2018
+25599,California,"San Mateo, CA",San Mateo,1489000.0,11/1/2018,11,2018
+25629,California,"Santa Clara, CA",Santa Clara,1193000.0,12/1/2018,12,2018
+25755,California,"San Francisco, CA",San Francisco,1150000.0,12/1/2015,12,2015
+25891,California,"Alameda, CA",Alameda,879000.0,10/1/2016,10,2016
+25980,California,"San Francisco, CA",San Francisco,1242000.0,3/1/2017,3,2017
+26250,California,"San Francisco, CA",San Francisco,1400000.0,8/1/2018,8,2018
+26339,California,"Napa, CA",Napa,610000.0,2/1/2019,2,2019
+26347,California,"Santa Clara, CA",Santa Clara,1250000.0,2/1/2019,2,2019
+26418,California,"Napa, CA",Napa,610000.0,8/1/2016,8,2016
+26479,California,"San Francisco, CA",San Francisco,1300000.0,10/1/2016,10,2016
+26564,California,"Napa, CA",Napa,655000.0,3/1/2017,3,2017
+26609,California,"Napa, CA",Napa,628000.0,5/1/2017,5,2017
+26763,California,"Alameda, CA",Alameda,931000.0,12/1/2017,12,2017
+26801,California,"San Mateo, CA",San Mateo,1350000.0,1/1/2018,1,2018
+26810,California,"Napa, CA",Napa,679000.0,2/1/2018,2,2018
+26985,California,"San Francisco, CA",San Francisco,1400000.0,9/1/2018,9,2018
+27059,California,"San Francisco, CA",San Francisco,1370000.0,12/1/2018,12,2018
+27260,California,"Santa Clara, CA",Santa Clara,935000.0,2/1/2017,2,2017
+27277,California,"San Mateo, CA",San Mateo,1260000.0,3/1/2017,3,2017
+27290,California,"Napa, CA",Napa,640000.0,4/1/2017,4,2017
+27298,California,"San Francisco, CA",San Francisco,1275000.0,4/1/2017,4,2017
+27322,California,"Santa Clara, CA",Santa Clara,1126000.0,5/1/2017,5,2017
+27375,California,"San Francisco, CA",San Francisco,1300000.0,8/1/2017,8,2017
+27511,California,"Napa, CA",Napa,655000.0,4/1/2018,4,2018
+27619,California,"Napa, CA",Napa,635000.0,9/1/2018,9,2018
+27773,California,"Alameda, CA",Alameda,900000.0,11/1/2017,11,2017
+27890,California,"San Mateo, CA",San Mateo,936000.0,1/1/2015,1,2015
+27922,California,"Napa, CA",Napa,535000.0,3/1/2015,3,2015
+28085,California,"San Mateo, CA",San Mateo,1050000.0,9/1/2015,9,2015
+28123,California,"San Mateo, CA",San Mateo,1013000.0,11/1/2015,11,2015
+28157,California,"Napa, CA",Napa,555000.0,1/1/2016,1,2016
+28207,California,"Santa Clara, CA",Santa Clara,1012000.0,2/1/2016,2,2016
+28230,California,"San Mateo, CA",San Mateo,1056000.0,3/1/2016,3,2016
+28231,California,"San Francisco, CA",San Francisco,1200000.0,3/1/2016,3,2016
+28253,California,"San Mateo, CA",San Mateo,1100000.0,4/1/2016,4,2016
+28271,California,"San Mateo, CA",San Mateo,1249000.0,5/1/2016,5,2016
+28285,California,"Napa, CA",Napa,600000.0,6/1/2016,6,2016
+28397,California,"San Mateo, CA",San Mateo,1184000.0,10/1/2016,10,2016
+28405,California,"Napa, CA",Napa,582000.0,11/1/2016,11,2016
+28498,California,"San Mateo, CA",San Mateo,1268000.0,2/1/2017,2,2017
+28568,California,"San Mateo, CA",San Mateo,1380000.0,5/1/2017,5,2017
+28631,California,"Napa, CA",Napa,631000.0,8/1/2017,8,2017
+28689,California,"Napa, CA",Napa,584000.0,10/1/2017,10,2017
+28847,California,"San Francisco, CA",San Francisco,1415000.0,4/1/2018,4,2018
+28859,California,"Napa, CA",Napa,665000.0,5/1/2018,5,2018
+28907,California,"Napa, CA",Napa,685000.0,7/1/2018,7,2018
+28924,California,"San Mateo, CA",San Mateo,1375000.0,7/1/2018,7,2018
+28932,California,"Napa, CA",Napa,683000.0,8/1/2018,8,2018
+29210,California,"San Francisco, CA",San Francisco,1150000.0,2/1/2015,2,2015
+29482,California,"Napa, CA",Napa,630000.0,2/1/2016,2,2016
+29586,California,"San Mateo, CA",San Mateo,1155000.0,6/1/2016,6,2016
+29587,California,"San Francisco, CA",San Francisco,1248000.0,6/1/2016,6,2016
+29618,California,"San Francisco, CA",San Francisco,1210000.0,7/1/2016,7,2016
+29730,California,"Napa, CA",Napa,573000.0,12/1/2016,12,2016
+29894,California,"San Mateo, CA",San Mateo,1244000.0,6/1/2017,6,2017
+29917,California,"San Mateo, CA",San Mateo,1309000.0,7/1/2017,7,2017
+29997,California,"San Francisco, CA",San Francisco,1323000.0,10/1/2017,10,2017
+30048,California,"San Francisco, CA",San Francisco,1300000.0,12/1/2017,12,2017
+30059,California,"Napa, CA",Napa,649000.0,1/1/2018,1,2018
+30241,California,"San Mateo, CA",San Mateo,1500000.0,8/1/2018,8,2018
+30268,California,"San Mateo, CA",San Mateo,1600000.0,9/1/2018,9,2018
